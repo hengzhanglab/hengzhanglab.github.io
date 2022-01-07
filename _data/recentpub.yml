@@ -1,296 +1,409 @@
-- title: "Higher rates of processed pseudogene acquisition in humans and three great apes revealed by long read assemblies"
-  authors: <b>Feng X</b>, <b>Li H</b><sup>&#8224;</sup>
+- title: Salinity Effects on Guard Cell Proteome in <i>Chenopodium quinoa</i>
+  authors: Rasouli F, Kiani-Pouya A, Shabala L, Li L, Tahir A, Yu M, Hedrich R, Chen Z, Wilson R, <b>Zhang H</b><sup>*</sup>, Shabala S<sup>*</sup>
   year: 2021
-  url: https://pubmed.ncbi.nlm.nih.gov/33681998/
-  display: <i>Mol Biol Evol</i>. <i>published online</i>
-  pmid: 33681998
-  type: 1
+  journal: Int J Mol Sci
+  display: 22(1):428
+  doi: 10.3390/ijms22010428
+  pmid: 33406687
 
-- title: "Chromosome-scale haplotype-resolved assembly of human genomes"
-  authors: <b>Garg S</b><sup>&#8224;</sup>, Fungtammasan A, Carroll A, Chou M, Schmitt A, &hellip;, Chin C-S<sup>&#8224;</sup>, Church GM<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>
+- title: Alleviating the effect of quinoa and the underlying mechanism on hepatic steatosis in high-fat diet-fed rats
+  authors: Song C<sup>#</sup>, Lv W<sup>#</sup>, Li Y<sup>#</sup>, Nie P, Lu J, Geng Y<sup>*</sup>, <b>Zhang H</b><sup>*</sup>, Song L<sup>*</sup>
   year: 2021
-  url: https://pubmed.ncbi.nlm.nih.gov/33288905/
-  display: <i>Nat Biotechnol</i>, <b>39</b>:309-312
-  pmid: 33288905
-  type: 1
+  journal: Nutrition & Metabolism
+  display: 18(1):106
+  doi: 10.1186/s12986-021-00631-7
+  pmid: 34922572
 
-- title: "Accurate SNV detection in single cells by transposon-based whole-genome amplification of complementary strands"
-  authors: Xing D*, Tan L*, Chang C-H, <b>Li H</b><sup>&#8224;</sup>, Xie XS<sup>&#8224;</sup>
+- title: The receptor-like kinases BAM1 and BAM2 are required for root xylem patterning
+  authors: Fan P<sup>#</sup>, Aguilar E<sup>#</sup>, Bradai M, Xue H, Wang H, Rosas-Diaz T, Tang W, Wmn,olf S, <b>Zhang H</b>, Xu L, Lozano-Durán R<sup>*</sup>
   year: 2021
-  url: https://pubmed.ncbi.nlm.nih.gov/33593904/
-  display: <i>Proc Natl Acad Sci</i>, <b>118</b>:e2013106118
-  pmid: 33593904
-  type: 1
+  journal: Proc Natl Acad Sci U S A
+  display: 118(12):e2022547118
+  doi: 10.1073/pnas.2022547118
+  pmid: 33723062
 
-- title: "Haplotype-resolved de novo assembly with phased assembly graphs with hifiasm"
-  authors: <b>Cheng H</b>, Concepcion GT, <b>Feng X</b>, <b>Zhang H</b>, <b>Li H</b><sup>&#8224;</sup>
+- title: A histone H3K4me1-specific binding protein is required for siRNA accumulation and DNA methylation at a subset of loci targeted by RNA-directed DNA methylation
+  authors: Niu Q<sup>#</sup>, Song Z<sup>#</sup>, Tang K, Chen L, Wang L, Ban T, Guo Z, Kim C, <b>Zhang H</b>, Duan C, Zhang H, Zhu J-K, Du J<sup>*</sup>, Lang Z<sup>*</sup>
   year: 2021
-  url: https://pubmed.ncbi.nlm.nih.gov/33526886/
-  display: <i>Nat Methods</i>, <b>18</b>:170-175
-  pmid: 33526886
-  type: 1
+  journal: Nature Communications
+  display: 12(1):3367
+  doi: 10.1038/s41467-021-23637-4
+  pmid: 34099688
 
-- title: "The design and construction of reference pangenome graphs with minigraph"
-  authors: <b>Li H</b><sup>&#8224;</sup>, <b>Feng X</b>, Chu C
+- title: Recognition of H3K9me1 by maize RNA-directed DNA methylation factor SHH2
+  authors: Wang Y<sup>#</sup>, Zhou X<sup>#</sup>, Luo J, Lv S, Liu R, Du X, Jia B, Yuan F, <b>Zhang H</b>, and Du J<sup>*</sup>
+  year: 2021
+  journal: J Integr Plant Biol
+  display: 63(6):1091-1096
+  doi: 10.1111/jipb.13103
+  pmid: 33913587
+
+- title: "Thriving under Stress: How Plants Balance Growth and the Stress Response"
+  authors: <b>Zhang H</b><sup>*</sup>, Zhao Y, Zhu, J-K<sup>*</sup>
   year: 2020
-  url: https://pubmed.ncbi.nlm.nih.gov/33066802/
-  display: <i>Genome Biol</i>, <b>21</b>:265
-  pmid: 33066802
-  type: 1
+  journal: Dev Cell
+  display: 55(5):P525-543
+  doi: 10.1016/j.devcel.2020.10.012
+  pmid: 33290694
 
-- title: "Bedtk: Finding Interval Overlap with Implicit Interval Tree"
-  authors: <b>Li H</b><sup>&#8224;</sup>, <b>Rong J</b>
+- title: It Takes NSUN2 to Beat the Heat in Rice
+  authors: Zhu Z, <b>Zhang H</b><sup>*</sup>
   year: 2020
-  url: https://pubmed.ncbi.nlm.nih.gov/32966548/
-  display: <i>Bioinformatics</i>, <i>published online</i>
-  pmid: 32966548
-  type: 1
+  journal: Dev Cell
+  display: 53:253-254
+  doi: 10.1016/j.devcel.2020.04.011
+  pmid: 32369737
 
-- title: "Fast and accurate long-read assembly with wtdbg2"
-  authors: Ruan J<sup>&#8224;</sup> and <b>Li H</b><sup>&#8224;</sup>
+- title: RNA-directed DNA methylation has an important developmental function in Arabidopsis that is masked by the chromatin remodeler PICKLE
+  authors: Yang R, He L, Huang H, Zhu JK, Lozano-Duran R, Zhang H(*)
   year: 2020
-  url: https://www.ncbi.nlm.nih.gov/pubmed/31819265/
-  display: <i>Nat. Methods</i>, <b>17</b>:155-158
-  pmid: 31819265
-  type: 1
+  journal: J Integr Plant Biol
+  display: ""
+  doi: 10.1111/jipb.12979
+  pmid: 32515549
 
-- title: "Accurate circular consensus long-read sequencing improves variant detection and assembly of a human genome"
-  authors: Wenger AM*, Peluso P*, Rowell WJ, Chang PC, Hall RJ, &hellip;, <b>Li H</b>, &hellip;, Rank DR<sup>&#8224;</sup>, Hunkapiller MW<sup>&#8224;</sup>
+- title: Rph1 coordinates transcription of ribosomal protein genes and ribosomal RNAs to control cell growth under nutrient stress conditions
+  authors: Shu WJ, Chen R, Yin ZH, Li F, Zhang H, Du HN(*)
+  year: 2020
+  journal: Nucleic Acids Res
+  display: ""
+  doi: 10.1093/nar/gkaa558
+  pmid: 32619236
+
+- title: Mechanisms of plant responses and adaptation to soil salinity
+  authors: Zhao C<sup>*</sup>, Zhang H, Song C, Zhu J-K<sup>*</sup>, Shabala S<sup>*</sup>
+  year: 2020
+  journal: The Innovation
+  display: ""
+  doi: 10.1016/j.xinn.2020.100017
+  pmid: 34557705
+
+- title: "Sugar Beet (Beta vulgaris) Guard Cells Responses to Salinity Stress: A Proteomic Analysis"
+  authors: Rasouli F, Kiani-Pouya A, Li L, Zhang H, Chen Z, Hedrich R, Wilson R<sup>*</sup>, Shabala S<sup>*</sup>
+  year: 2020
+  journal: International Journal of Molecular Sciences
+  display: 21(7):2331
+  doi: 10.3390/ijms21072331
+  pmid: 32230932
+
+- title: Developing and validating protocols for mechanical isolation of guard-cell enriched epidermal peels for omics studies
+  authors: Rasouli F, Kiani-Pouya A, Zhang H, Shabala S<sup>*</sup>
+  year: 2020
+  journal: Functional Plant Biology
+  display: ""
+  doi: 10.1071/FP20085
+  pmid: 32513383
+
+- title: The genome of broomcorn millet
+  authors: Zou C, Li L, Miki D, Li D, Tang Q, Xiao L, Rajput S, Deng P, Peng L, Jia W, Huang R, Zhang M, Sun Y, Hu J, Fu X, Schnable PS, Chang Y, Li F, Zhang H, Feng B, Zhu X, Liu R, Schnable JC, Zhu JK<sup>*</sup>, Zhang H<sup>*</sup>
   year: 2019
-  url: https://www.ncbi.nlm.nih.gov/pubmed/31406327
-  display: <i>Nat Biotechnol.</i>, <b>37</b>:1155-1162
-  pmid: 31406327
-  type: 2
+  journal: Nature Communications
+  display: 10:436
+  doi: 10.1038/s41467-019-08409-5
+  pmid: 30683860
 
-- title: "Identifying centromeric satellites with dna-brnn"
-  authors: <b>Li H</b>
+- title: TMK1-mediated auxin signalling regulates differential growth of the apical hook
+  authors: Cao M(#), Chen R(#), Li P(#), Yu Y, Zheng R, Ge D, Zheng W, Wang X, Gu Y, Gelová Z, Friml J, Zhang H, Liu R, He J, Xu T<sup>*</sup>
   year: 2019
-  url: https://www.ncbi.nlm.nih.gov/pubmed/30989183
-  display: <i>Bioinformatics</i>, <b>35</b>:4408-4410
-  pmid: 30989183
-  type: 1
+  journal: Nature
+  display: ""
+  doi: 10.1038/s41586-019-1069-7
+  pmid: 30944466
 
-- title: "Minimap2: pairwise alignment for nucleotide sequences"
-  authors: <b>Li H</b>
-  year: 2018
-  url: https://www.ncbi.nlm.nih.gov/pubmed/29750242
-  display: <i>Bioinformatics</i>, <b>34</b>:3094-3100
-  pmid: 29750242
-  type: 1
+- title: Global increase in DNA methylation during orange fruit development and ripening
+  authors: Huang H, Liu R, Niu Q, Tang K, Zhang B, Zhang H, Chen K, Zhu JK(*), Lang Z<sup>*</sup>
+  year: 2019
+  journal: Proc Natl Acad Sci U S A
+  display: 116(4):1430-1436
+  doi: 10.1073/pnas.1815441116
+  pmid: 30635417
 
-- title: "Three-dimensional genome structures of single diploid human cells"
-  authors: Tan L*, Xing D*, Chang CH, <b>Li H</b>, Xie XS<sup>&#8224;</sup>
-  year: 2018
-  url: https://www.ncbi.nlm.nih.gov/pubmed/30166492
-  display: <i>Science</i>, <b>361</b>:924-928
-  pmid: 30166492
-  type: 2
+- title: A large-scale screening of quinoa accessions reveals an important role of epidermal bladder cells and stomatal patterning in salinity tolerance
+  authors: Kiani-Pouya A, Rasouli F, Bazihizina N, Zheng H, Hedrich R, Shabala S<sup>*</sup>
+  year: 2019
+  journal: Environmental and Experimental Botany
+  display: 168:103885
+  doi: 10.1016/j.envexpbot.2019.103885
+  pmid: ""
 
-- title: "A synthetic-diploid benchmark for accurate variant-calling evaluation"
-  authors: <b>Li H</b><sup>&#8224;</sup>, Bloom JM, Farjoun Y, Fleharty M, Gauthier L, Neale B<sup>&#8224;</sup>, MacArthur D<sup>&#8224;</sup>
-  year: 2018
-  url: https://www.ncbi.nlm.nih.gov/pubmed/30013044
-  display: <i>Nat Methods</i>, <b>15</b>:595-597
-  pmid: 30013044
-  type: 1
+- title: HDAC1 and HDAC2 Regulate Intermediate Progenitor Positioning to Safeguard Neocortical Development
+  authors: Tang T, Zhang Y, Wang Y, Cai Z, Lu Z, Li L, Huang R, Hagelkruys A, Matthias P, Zhang H, Seiser C, Xie Y<sup>*</sup>
+  year: 2019
+  journal: Neuron
+  display: ""
+  doi: 10.1016/j.neuron.2019.01.007
+  pmid: 30709655
 
-- title: "Single-cell whole-genome analyses by Linear Amplification via Transposon Insertion (LIANTI)"
-  authors: Chen C*, Xing D*, Tan L*, <b>Li H</b>*, Zhou G, Huang L, Xie XS<sup>&#8224;</sup>
-  year: 2017
-  url: https://www.ncbi.nlm.nih.gov/pubmed/28408603
-  display: <i>Science</i>, <b>356</b>:189-194
-  pmid: 28408603
-  type: 2
+- title: Soil aluminum oxides determine biological nitrogen fixation and diazotrophic communities across major types of paddy soils in China
+  authors: Wang X, Liu B, Ma J, Zhang Y, Hu T, Zhang H, Feng Y, Pan H, Xu Z, Liu G, Lin X, Zhu J, Bei Q<sup>*</sup>, Xie Z<sup>*</sup>
+  year: 2019
+  journal: Soil Biological and Biochemistry
+  display: 131:81-89
+  doi: 10.1016/j.soilbio.2018.12.028
+  pmid: ""
 
-- title: "The Simons Genome Diversity Project: 300 genomes from 142 diverse populations"
-  authors: Mallick S*, <b>Li H</b>*, Lipson M*, Mathieson I*, Gymrek M, Racimo F, &hellip;, Reich D<sup>&#8224;</sup>
-  year: 2016
-  url: https://www.ncbi.nlm.nih.gov/pubmed/27654912
-  display: <i>Nature</i>, <b>538</b>:201-206
-  pmid: 27654912
-  type: 3
 
-- title: "Minimap and miniasm: fast mapping and de novo assembly for noisy long sequences"
-  authors: <b>Li H</b>
-  year: 2016
-  url: https://www.ncbi.nlm.nih.gov/pubmed/27153593
-  display: <i>Bioinformatics</i>, <b>32</b>:2103-2110
-  pmid: 27153593
-  type: 1
 
-- title: "BGT: efficient and flexible genotype query across many samples"
-  authors: <b>Li H</b>
-  year: 2016
-  url: https://www.ncbi.nlm.nih.gov/pubmed/26500154
-  display: <i>Bioinformatics</i>, <b>32</b>:590-592
-  pmid: 26500154
+- title:  Developing naturally stress-resistant crops for a sustainable agriculture.
+  authors:  Zhang H, Li Y, Zhu JK
+  year:  2018
+  journal:  Nat Plants
+  display:  4(12):989-996
+  doi:  10.1038/s41477-018-0309-4
+  pmid:  30478360
 
-- title: "A global reference for human genetic variation"
-  authors: The 1000 Genomes Project Consortium
-  year: 2015
-  url: https://www.ncbi.nlm.nih.gov/pubmed/26432245
-  display: <i>Nature</i>, <b>526</b>:68-74
-  pmid: 26432245
+- title:  Arabidopsis AGDP1 links H3K9me2 to DNA methylation in heterochromatin.
+  authors:  Zhang C, Du X, Tang K, Yang Z, Pan L, Zhu P, Luo J, Jiang Y, Zhang H, Wan H, Wang X, Wu F, Tao WA, He XJ, Zhang H, Bressan RA, Du J, Zhu JK
+  year:  2018
+  journal:  Nat Commun
+  display:  9(1):4547
+  doi:  10.1038/s41467-018-06965-w
+  pmid:  30382101
 
-- title: "FermiKit: assembly-based variant calling for Illumina resequencing data"
-  authors: <b>Li H</b>
-  year: 2015
-  url: https://www.ncbi.nlm.nih.gov/pubmed/26220959
-  display: <i>Bioinformatics</i>, <b>31</b>:3694-3696
-  pmid: 26220959
+- title:  Understanding the Molecular Basis of Salt Sequestration in Epidermal Bladder Cells of Chenopodium quinoa.
+  authors:  Böhm J, Messerer M, Müller HM, Scholz-Starke J, Gradogna A, Scherzer S, Maierhofer T, Bazihizina N, Zhang H, Stigloher C, Ache P, Al-Rasheid KAS, Mayer KFX, Shabala S, Carpaneto A, Haberer G, Zhu JK, Hedrich R
+  year:  2018
+  journal:  Curr Biol
+  display:  28(19):3075-3085.e7
+  doi:  10.1016/j.cub.2018.08.004
+  pmid:  30245105
 
-- title: "BFC: correcting Illumina sequencing errors"
-  authors: <b>Li H</b>
-  year: 2015
-  url: https://www.ncbi.nlm.nih.gov/pubmed/25953801
-  display: <i>Bioinformatics</i>, <b>31</b>:2885-2887
-  pmid: 25953801
+- title:  Genome Sequence of Bacillus megaterium Strain YC4-R4, a Plant Growth-Promoting Rhizobacterium Isolated from a High-Salinity Environment.
+  authors:  Vílchez JI, Tang Q, Kaushal R, Wang W, Lv S, He D, Chu Z, Zhang H, Liu R, Zhang H
+  year:  2018
+  journal:  Genome Announc
+  display:  6(25)
+  doi:  10.1128/genomeA.00527-18
+  pmid:  29930045
 
-- title: "Complete genomes reveal signatures of demographic and genetic declines in the woolly mammoth"
-  authors: Palkopoulou E, Mallick S, Skoglund P, Enk J, Rohland N, <b>Li H</b>, Omrak A, Vartanyan S, Poinar H, Götherström, &hellip;, Dalén L<sup>&#8224;</sup>
-  year: 2015
-  url: https://www.ncbi.nlm.nih.gov/pubmed/25913407
-  display: <i>Curr Biol.</i>, <b>25</b>:1395-400
-  pmid: 25913407
+- title:  The Chromatin Remodelers PKL and PIE1 Act in an Epigenetic Pathway That Determines H3K27me3 Homeostasis in Arabidopsis.
+  authors:  Carter B, Bishop B, Ho KK, Huang R, Jia W, Zhang H, Pascuzzi PE, Deal RB, Ogas J
+  year:  2018
+  journal:  Plant Cell
+  display:  30(6):1337-1352
+  doi:  10.1105/tpc.17.00867
+  pmid:  29802212
 
-- title: "No evidence that selection has been less effective at removing deleterious mutations in Europeans than in Africans"
-  authors: Do R, Balick D, <b>Li H</b>, Adzhubei I, Sunyaev S<sup>&#8224;</sup>, Reich D<sup>&#8224;</sup>
-  year: 2014
-  url: https://www.ncbi.nlm.nih.gov/pubmed/25581429
-  display: <i>Nat Genet.</i>, <b>47</b>:126-31
-  pmid: 25581429
+- title:  A virus-targeted plant receptor-like kinase promotes cell-to-cell spread of RNAi.
+  authors:  Rosas-Diaz T, Zhang D, Fan P, Wang L, Ding X, Jiang Y, Jimenez-Gongora T, Medina-Puche L, Zhao X, Feng Z, Zhang G, Liu X, Bejarano ER, Tan L, Zhang H, Zhu JK, Xing W, Faulkner C, Nagawa S, Lozano-Duran R
+  year:  2018
+  journal:  Proc Natl Acad Sci U S A
+  display:  115(6):1388-1393
+  doi:  10.1073/pnas.1715556115
+  pmid:  29363594
 
-- title: "Genome sequence of a 45,000-year-old modern human from western Siberia"
-  authors: Fu Q<sup>&#8224;</sup>, <b>Li H</b>, Moorjani P, Jay F, Slepchenko SM, &hellip;, Reich D<sup>&#8224;</sup>, Kelso J<sup>&#8224;</sup>, Viola TB<sup>&#8224;</sup>, Pääbo S
-  year: 2014
-  url: https://www.ncbi.nlm.nih.gov/pubmed/25341783
-  display: <i>Nature</i>, <b>514</b>:445-449
-  pmid: 25341783
-  type: 3
+- title:  Circulating tumour DNA methylation markers for diagnosis and prognosis of hepatocellular carcinoma.
+  authors:  Xu RH, Wei W, Krawczyk M, Wang W, Luo H, Flagg K, Yi S, Shi W, Quan Q, Li K, Zheng L, Zhang H, Caughey BA, Zhao Q, Hou J, Zhang R, Xu Y, Cai H, Li G, Hou R, Zhong Z, Lin D, et al
+  year:  2017
+  journal:  Nat Mater
+  display:  16(11):1155-1161
+  doi:  10.1038/nmat4997
+  pmid:  29035356
 
-- title: "Fast construction of FM-index for long sequence reads"
-  authors: <b>Li H</b>
-  year: 2014
-  url: https://www.ncbi.nlm.nih.gov/pubmed/25107872
-  display: <i>Bioinformatics</i>, <b>30</b>:3274-3275
-  pmid: 25107872
+- title:  A high-quality genome assembly of quinoa provides insights into the molecular basis of salt bladder-based salinity tolerance and the exceptional nutritional value.
+  authors:  Zou C, Chen A, Xiao L, Muller HM, Ache P, Haberer G, Zhang M, Jia W, Deng P, Huang R, Lang D, Li F, Zhan D, Wu X, Zhang H, Bohm J, Liu R, Shabala S, Hedrich R, Zhu JK, Zhang H
+  year:  2017
+  journal:  Cell Res
+  display:  27(11):1327-1340
+  doi:  10.1038/cr.2017.124
+  pmid:  28994416
 
-- title: "Towards Better Understanding of Artifacts in Variant Calling from High-Coverage Samples"
-  authors: <b>Li H</b>
-  year: 2014
-  url: https://www.ncbi.nlm.nih.gov/pubmed/24974202
-  display: <i>Bioinformatics</i>, <b>30</b>:2843-2851
-  pmid: 24974202
+- title:  A protein complex regulates RNA processing of intronic heterochromatin-containing genes in Arabidopsis.
+  authors:  Duan CG, Wang X, Zhang L, Xiong X, Zhang Z, Tang K, Pan L, Hsu CC, Xu H, Tao WA, Zhang H, Zhu JK
+  year:  2017
+  journal:  Proc Natl Acad Sci U S A
+  display:  114(35):E7377-E7384
+  doi:  10.1073/pnas.1710683114
+  pmid:  28808009
 
-- title: "The complete genome sequence of a Neanderthal from the Altai Mountains"
-  authors: Prüfer K, Racimo F, Patterson N, Jay F, &hellip;, <b>Li H</b>, &hellip;, Slatkin M<sup>&#8224;</sup>, Reich D<sup>&#8224;</sup>, Kelso J, Pääbo S<sup>&#8224;</sup>
-  year: 2014
-  url: https://www.ncbi.nlm.nih.gov/pubmed/24352235
-  display: <i>Nature</i>, <b>505</b>:43-49
-  pmid: 24352235
+- title:  DNA methylation markers for diagnosis and prognosis of common cancers.
+  authors:  Hao X, Luo H, Krawczyk M, Wei W, Wang W, Wang J, Flagg K, Hou J, Zhang H, Yi S, Jafari M, Lin D, Chung C, Caughey BA, Li G, Dhar D, Shi W, Zheng L, Hou R, Zhu J, Zhao L, Fu X, et al
+  year:  2017
+  journal:  Proc Natl Acad Sci U S A
+  display:  114(28):7414-7419
+  doi:  10.1073/pnas.1703577114
+  pmid:  28652331
 
-- title: "Exploring single-sample SNP and INDEL calling with whole-genome de novo assembly"
-  authors: <b>Li H</b>
-  year: 2012
-  url: https://www.ncbi.nlm.nih.gov/pubmed/22569178
-  display: <i>Bioinformatics</i>, <b>28</b>:1838-1844
-  pmid: 22569178
+- title:  The developmental regulator PKL is required to maintain correct DNA methylation patterns at RNA-directed DNA methylation loci.
+  authors:  Yang R, Zheng Z, Chen Q, Yang L, Huang H, Miki D, Wu W, Zeng L, Liu J, Zhou JX, Ogas J, Zhu JK, He XJ, Zhang H
+  year:  2017
+  journal:  Genome Biol
+  display:  18(1):103
+  doi:  10.1186/s13059-017-1226-y
+  pmid:  28569170
 
-- title: "A statistical framework for SNP calling, mutation discovery, association mapping and population genetical parameter estimation from sequencing data"
-  authors: <b>Li H</b>
-  year: 2011
-  url: https://www.ncbi.nlm.nih.gov/pubmed/21903627
-  display: <i>Bioinformatics</i>, <b>27</b>:2987-2993
-  pmid: 21903627
+- title:  Genome sequencing and analysis of Ralstonia solanacearum phylotype I strains FJAT-91, FJAT-452 and FJAT-462 isolated from tomato, eggplant, and chili pepper in China.
+  authors:  Sun Y, Wang K, Caceres-Moreno C, Jia W, Chen A, Zhang H, Liu R, Macho AP
+  year:  2017
+  journal:  Stand Genomic Sci
+  display:  12:29
+  doi:  10.1186/s40793-017-0241-7
+  pmid:  28428834
 
-- title: "Inference of human population history from individual whole-genome sequences"
-  authors: <b>Li H</b><sup>&#8224;</sup>, Durbin R<sup>&#8224;</sup>
-  year: 2011
-  url: https://www.ncbi.nlm.nih.gov/pubmed/21753753
-  display: <i>Nature</i>, <b>475</b>:493-496
-  pmid: 21753753
-  type: 3
+- title:  A pair of transposon-derived proteins function in a histone acetyltransferase complex for active DNA demethylation.
+  authors:  Duan CG, Wang X, Xie S, Pan L, Miki D, Tang K, Hsu CC, Lei M, Zhong Y, Hou YJ, Wang Z, Zhang Z, Mangrauthia SK, Xu H, Zhang H, Dilkes B, Tao WA, Zhu JK
+  year:  2017
+  journal:  Cell Res
+  display:  27(2):226-240
+  doi:  10.1038/cr.2016.147
+  pmid:  27934869
 
-- title: "Improving SNP discovery by base alignment quality"
-  authors: <b>Li H</b>
-  year: 2011
-  url: https://www.ncbi.nlm.nih.gov/pubmed/21320865
-  display: <i>Bioinformatics</i>, <b>27</b>:1157-1158
-  pmid: 21320865
+- title:  The DNA demethylase ROS1 targets genomic regions with distinct chromatin modifications.
+  authors:  Tang K, Lang Z, Zhang H, Zhu JK
+  year:  2016
+  journal:  Nat Plants
+  display:  2(11):16169
+  doi:  10.1038/nplants.2016.169
+  pmid:  27797352
 
-- title: "Tabix: Fast retrieval of sequence features from generic TAB-delimited files"
-  authors: <b>Li H</b>
-  year: 2011
-  url: https://www.ncbi.nlm.nih.gov/pubmed/21208982
-  display: <i>Bioinformatics</i>, <b>27</b>:718-719
-  pmid: 21208982
+- title:  The chromatin remodeler DDM1 promotes hybrid vigor by regulating salicylic acid metabolism.
+  authors:  Zhang Q, Li Y, Xu T, Srivastava AK, Wang D, Zeng L, Yang L, He L, Zhang H, Zheng Z, Yang DL, Zhao C, Dong J, Gong Z, Liu R, Zhu JK
+  year:  2016
+  journal:  Cell Discov
+  display:  2:16027
+  doi:  10.1038/celldisc.2016.27
+  pmid:  27551435
 
-- title: "A survey of sequence alignment algorithms for next-generation sequencing"
-  authors: <b>Li H</b><sup>&#8224;</sup>, Homer N
-  year: 2010
-  url: https://www.ncbi.nlm.nih.gov/pubmed/20460430
-  display: <i>Brief Bioinform</i>, <b>11</b>:473-83
-  pmid: 20460430
+- title:  Methylation interactions in Arabidopsis hybrids require RNA-directed DNA methylation and are influenced by genetic variation.
+  authors:  Zhang Q, Wang D, Lang Z, He L, Yang L, Zeng L, Li Y, Zhao C, Huang H, Zhang H, Zhang H, Zhu JK
+  year:  2016
+  journal:  Proc Natl Acad Sci U S A
+  display:  113(29):E4248-56
+  doi:  10.1073/pnas.1607851113
+  pmid:  27382183
 
-- title: "A draft sequence of the Neandertal genome"
-  authors: Green RE*<sup>,&#8224;</sup>, Krause J*, Briggs AW*, Maricic T*, Stenzel U*, Kircher M*, Patterson N*, <b>Li H</b>, &hellip;, Reich D<sup>&#8224;</sup>, Pääbo S<sup>&#8224;</sup>
-  year: 2010
-  url: https://www.ncbi.nlm.nih.gov/pubmed/20448178
-  display: <i>Science</i>, <b>328</b>:680-684
-  pmid: 20448178
+- title:  Cross-Talk Between Sporophyte and Gametophyte Generations Is Promoted by CHD3 Chromatin Remodelers in Arabidopsis thaliana.
+  authors:  Carter B, Henderson JT, Svedin E, Fiers M, McCarthy K, Smith A, Guo C, Bishop B, Zhang H, Riksen T, Shockley A, Dilkes BP, Boutilier K, Ogas J
+  year:  2016
+  journal:  Genetics
+  display:  203(2):817-29
+  doi:  10.1534/genetics.115.180141
+  pmid:  27075727
 
-- title: "Fast and accurate long-read alignment with Burrows-Wheeler Transform"
-  authors: <b>Li H</b>, Durbin R<sup>&#8224;</sup>
-  year: 2010
-  url: https://www.ncbi.nlm.nih.gov/pubmed/20080505
-  display: <i>Bioinformatics</i>, <b>26</b>:589-95
-  pmid: 20080505
+- title:  Dicer-independent RNA-directed DNA methylation in Arabidopsis.
+  authors:  Yang DL, Zhang G, Tang K, Li J, Yang L, Huang H, Zhang H, Zhu JK
+  year:  2016
+  journal:  Cell Res
+  display:  26(11):1264
+  doi:  10.1038/cr.2015.145
+  pmid:  26642813
 
-- title: "Fast and accurate short read alignment with Burrows-Wheeler Transform"
-  authors: <b>Li H</b>, Durbin R<sup>&#8224;</sup>
-  year: 2009
-  url: https://www.ncbi.nlm.nih.gov/pubmed/19451168
-  display: <i>Bioinformatics</i>, <b>25</b>:1754-1760
-  pmid: 19451168
+- title:  Protecting genes from RNA silencing by destroying aberrant transcripts.
+  authors:  Zhang H, Zhu J
+  year:  2015
+  journal:  Sci China Life Sci
+  display:  58(6):613-5
+  doi:  10.1007/s11427-015-4871-y
+  pmid:  25994414
 
-- title: "The Sequence Alignment/Map format and SAMtools"
-  authors: <b>Li H</b>*, Handsaker B*, Wysoker A, Fennell T, Ruan J, Homer N, Marth G, Abecasis G, Durbin R<sup>&#8224;</sup>
-  year: 2009
-  url: https://www.ncbi.nlm.nih.gov/pubmed/19505943
-  display: <i>Bioinformatics</i>, <b>25</b>:2078-2079
-  pmid: 19505943
-  type: 1
+- title:  Involvement of Multiple Gene-Silencing Pathways in a Paramutation-like Phenomenon in Arabidopsis.
+  authors:  Zheng Z, Yu H, Miki D, Jin D, Zhang Q, Ren Z, Gong Z, Zhang H, Zhu JK
+  year:  2015
+  journal:  Cell Rep
+  display:  11(8):1160-7
+  doi:  10.1016/j.celrep.2015.04.034
+  pmid:  25981044
 
-- title: "Mapping short DNA sequencing reads and calling variants using mapping quality scores"
-  authors: <b>Li H</b>, Ruan J and Durbin R
-  year: 2008
-  url: https://www.ncbi.nlm.nih.gov/pubmed/18714091
-  display: <i>Genome Res.</i>, <b>18</b>:1851-8
-  pmid: 18714091
+- title:  Comparative physiological, metabolomic, and transcriptomic analyses reveal mechanisms of improved abiotic stress resistance in bermudagrass [Cynodon dactylon (L). Pers.] by exogenous melatonin.
+  authors:  Shi H, Jiang C, Ye T, Tan DX, Reiter RJ, Zhang H, Liu R, Chan Z
+  year:  2015
+  journal:  J Exp Bot
+  display:  66(3):681-94
+  doi:  10.1093/jxb/eru373
+  pmid:  25225478
 
-- title: "TreeFam: 2008 Update"
-  authors: Ruan J*, <b>Li H</b>*, Chen Z, Coghlan A, Coin LJ, &hellip;, Wang J<sup>&#8224;</sup>, Durbin R<sup>&#8224;</sup>
-  year: 2008
-  url: https://www.ncbi.nlm.nih.gov/pubmed/18056084
-  display: <i>Nucleic Acids Res</i>, <b>36</b>:D735-740
-  pmid: 18056084
+- title:  "RNA-directed DNA methylation in plants: Where to start?"
+  authors:  Zhang H, He X, Zhu JK
+  year:  2013
+  journal:  RNA Biol
+  display:  10(10):1593-6
+  doi:  10.4161/rna.26312
+  pmid:  25003825
 
-- title: "A cross-species alignment tool (CAT)"
-  authors: <b>Li H</b>*, Guan L*, Liu T*, Zheng W, Wong G<sup>&#8224;</sup> and Wang J<sup>&#8224;</sup>
-  year: 2007
-  url: https://www.ncbi.nlm.nih.gov/pubmed/17880681
-  display: <i>BMC Bioinformatics</i>, <b>8</b>:439
-  pmid: 17880681
+- title:  The CRISPR/Cas9 system produces specific and homozygous targeted gene editing in rice in one generation.
+  authors:  Zhang H, Zhang J, Wei P, Zhang B, Gou F, Feng Z, Mao Y, Yang L, Zhang H, Xu N, Zhu JK
+  year:  2014
+  journal:  Plant Biotechnol J
+  display:  12(6):797-807
+  doi:  10.1111/pbi.12200
+  pmid:  24854982
 
-- title: "TreeFam: a curated database of phylogenetic trees of animal gene families"
-  authors: <b>Li H</b>, Coghlan A, Ruan J, Coin LJ, Hériché JK, &hellip;, Durbin R<sup>&#8224;</sup>
-  year: 2006
-  url: https://www.ncbi.nlm.nih.gov/pubmed/16381935
-  display: <i>Nucleic Acids Res.</i>, <b>34</b>:D572-580
-  pmid: 16381935
+- title:  An Rrp6-like protein positively regulates noncoding RNA levels and DNA methylation in Arabidopsis.
+  authors:  Zhang H, Tang K, Qian W, Duan CG, Wang B, Zhang H, Wang P, Zhu X, Lang Z, Yang Y, Zhu JK
+  year:  2014
+  journal:  Mol Cell
+  display:  54(3):418-30
+  doi:  10.1016/j.molcel.2014.03.019
+  pmid:  24726328
 
-- title: "Test data sets and evaluation of gene prediction programs on the rice genome"
-  authors: <b>Li H</b>*, Liu J*, Xu Z*, Jin J, Fang L, &hellip;, Hao B-L<sup>&#8224;</sup>
-  year: 2005
-  url: https://link.springer.com/article/10.1007/s11390-005-0446-x
-  display: <i>J Comput Sci & Technol.</i>, <b>20</b>:446-53
+- title:  Arabidopsis EDM2 promotes IBM1 distal polyadenylation and regulates genome DNA methylation patterns.
+  authors:  Lei M, La H, Lu K, Wang P, Miki D, Ren Z, Duan CG, Wang X, Tang K, Zeng L, Yang L, Zhang H, Nie W, Liu P, Zhou J, Liu R, Zhong Y, Liu D, Zhu JK
+  year:  2014
+  journal:  Proc Natl Acad Sci U S A
+  display:  111(1):527-32
+  doi:  10.1073/pnas.1320106110
+  pmid:  24248388
+
+- title:  A Pre-mRNA-splicing factor is required for RNA-directed DNA methylation in Arabidopsis.
+  authors:  Huang CF, Miki D, Tang K, Zhou HR, Zheng Z, Chen W, Ma ZY, Yang L, Zhang H, Liu R, He XJ, Zhu JK
+  year:  2013
+  journal:  PLoS Genet
+  display:  9(9):e1003779
+  doi:  10.1371/journal.pgen.1003779
+  pmid:  24068953
+
+- title:  DTF1 is a core component of RNA-directed DNA methylation and may assist in the recruitment of Pol IV.
+  authors:  Zhang H, Ma ZY, Zeng L, Tanaka K, Zhang CJ, Ma J, Bai G, Wang P, Zhang SW, Liu ZW, Cai T, Tang K, Liu R, Shi X, He XJ, Zhu JK
+  year:  2013
+  journal:  Proc Natl Acad Sci U S A
+  display:  110(20):8290-5
+  doi:  10.1073/pnas.1300585110
+  pmid:  23637343
+
+- title:  PICKLE is a CHD subfamily II ATP-dependent chromatin remodeling factor.
+  authors:  Ho KK, Zhang H, Golden BL, Ogas J
+  year:  2013
+  journal:  Biochim Biophys Acta
+  display:  1829(2):199-210
+  doi:  10.1016/j.bbagrm.2012.10.011
+  pmid:  23128324
+
+- title:  A histone acetyltransferase regulates active DNA demethylation in Arabidopsis.
+  authors:  Qian W, Miki D, Zhang H, Liu Y, Zhang X, Tang K, Kan Y, La H, Li X, Li S, Zhu X, Shi X, Zhang K, Pontes O, Chen X, Liu R, Gong Z, Zhu JK
+  year:  2012
+  journal:  Science
+  display:  336(6087):1445-8
+  doi:  10.1126/science.1219416
+  pmid:  22700931
+
+- title:  The CHD3 remodeler PICKLE associates with genes enriched for trimethylation of histone H3 lysine 27.
+  authors:  Zhang H, Bishop B, Ringenberg W, Muir WM, Ogas J
+  year:  2012
+  journal:  Plant Physiol
+  display:  159(1):418-32
+  doi:  10.1104/pp.112.194878
+  pmid:  22452853
+
+- title:  An epigenetic perspective on developmental regulation of seed genes.
+  authors:  Zhang H, Ogas J
+  year:  2009
+  journal:  Mol Plant
+  display:  2(4):610-627
+  doi:  10.1093/mp/ssp027
+  pmid:  19825643
+
+- title:  The CHD3 remodeler PICKLE promotes trimethylation of histone H3 lysine 27.
+  authors:  Zhang H, Rider SD Jr, Henderson JT, Fountain M, Chuang K, Kandachar V, Simons A, Edenberg HJ, Romero-Severson J, Muir WM, Ogas J
+  year:  2008
+  journal:  J Biol Chem
+  display:  283(33):22637-48
+  doi:  10.1074/jbc.M802129200
+  pmid:  18539592
+
+- title:  PICKLE acts during germination to repress expression of embryonic traits.
+  authors:  Li HC, Chuang K, Henderson JT, Rider SD Jr, Bai Y, Zhang H, Fountain M, Gerber J, Ogas J
+  year:  2005
+  journal:  Plant J
+  display:  44(6):1010-22.
+  doi:  10.1111/j.1365-313X.2005.02602.x
+  pmid:  16359393
