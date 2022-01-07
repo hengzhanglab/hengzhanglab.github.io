@@ -1,7 +1,7 @@
 ---
-title: "HLi Lab - Home"
+title: "HengZhang Lab - Home"
 layout: homelay
-excerpt: "HLi Lab at DFCI & HMS"
+excerpt: "HengZhang Lab at PSC & CEMPS"
 sitemap: false
 permalink: /
 ---
