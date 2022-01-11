@@ -1,7 +1,7 @@
 ---
-title: "HLi Lab - Team"
+title: "Members"
 layout: gridlay
-excerpt: "HLi Lab: Team members"
+excerpt: "Members"
 sitemap: false
 permalink: /team/
 ---
@@ -69,3 +69,40 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+---
+
+- Current members
+  - **Zhaohai Zhu** • Staff • <zhzhu@psc.ac.cn>
+  - **Jiangmei Sun** • Postdoctoral Fellow • <jmsun@psc.ac.cn>
+  - **Yuan Wang** • Postdoctoral Fellow • <yuanwang@psc.ac.cn>
+  - **Leiting Li** • Postdoctoral Fellow • <ltli@psc.ac.cn>
+  - **Chana Borjigin** • Postdoctoral Fellow • <chana@psc.ac.cn>
+  - **Ai Zeng** • Staff • <aizeng@psc.ac.cn>
+  - **Hongwei Wang** • Staff • <hwwang@psc.ac.cn>
+  - **Mingsuo Cheng** • Staff
+  - **Jingjing Song** • Staff • <jjsong@psc.ac.cn>
+  - **Zheting Zhang** • Graduate student • <ztzhang@psc.ac.cn>
+  - **Xueqin Li** • Graduate student • <xqli@psc.ac.cn>
+  - **Juan Huang** • Graduate student • <juanhuang@psc.ac.cn>
+  - **Jiahong Chen** • Graduate student • <jhchen@psc.ac.cn>
+  - **Tian Dai** • Graduate student • <tiandai@psc.ac.cn>
+  - **Qingbing Wu** • Graduate student • <qbwu@psc.ac.cn>
+  - **Ruoyun Chen** • Graduate student • <rychen@psc.ac.cn>
+  - **Yu Tan** • Graduate student • <yutan@psc.ac.cn>
+  - **Yuwei Wang** • Graduate student • <ywwang@psc.ac.cn>
+  - **Lishuo Wang** • Graduate student
+  - **Yuan Long** • Graduate student
+  - **Yuanhao Zhu** • Graduate student
+  - **Minqing Huang** • Visiting student
+
+---
+
+- Former members
+  - **Ali Kiana-Pouya** 
+  - **Fatemeh Rasouli** 
+  - **Yi Xiong** 
+  - **Hehua Zhang**
+  - **Yingcun Hao**
+  - ...
+
