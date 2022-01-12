@@ -8,8 +8,6 @@ permalink: /members/
 
 # Group Members
 
-<div class="col-sm-1"></div>
-
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -19,8 +17,8 @@ permalink: /members/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-11 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="12%" style="float: left" />
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i>
   <ul style="overflow: hidden">
@@ -111,6 +109,7 @@ permalink: /members/
   - **Yi Xiong**
   - **Hehua Zhang**
   - **Yingcun Hao**
+  - **Meiling Zhang**
   - ...
 
 </div>

@@ -2,7 +2,7 @@
   photo: hzhang.jpg
   info: |
     Principal Investigator<br>
-    Email: <a href="mailto:hengzhang@psc.ac.cn">hengzhang@psc.ac.cn</a>
+    Email: <hengzhang@psc.ac.cn>
   number_educ: 5
   education1: 2014 – present, Principal Investigator, PSC
   education2: 2012 – 2014, Junior Group Leader, PSC
@@ -10,3 +10,38 @@
   education4: Ph.D. in Biochemistry, Purdue University, USA, 2009
   education5: B.S. in Biotechnology & B.A. in Economics, Peking University, China, 2003
 
+- name: Zhaohai Zhu
+  photo: zhzhu.jpg
+  info: |
+    Staff<br>
+    Email: <zhzhu@psc.ac.cn>
+
+- name: Jiangmei Sun
+  photo: jmsun.jpg
+  info: |
+    Postdoctoral Fellow<br>
+    Email: <jmsun@psc.ac.cn>
+
+- name: Yuan Wang
+  photo: default.png
+  info: |
+    Postdoctoral Fellow<br>
+    Email: <yuanwang@psc.ac.cn>
+
+- name: Leiting Li
+  photo: ltli.jpg
+  into: |
+    Postdoctoral Fellow<br>
+    Email: <ltli@psc.ac.cn>
+
+- name: Chana Borjigin
+  photo: default.png
+  info: |
+    Postdoctoral Fellow<br>
+    Email: <chana@psc.ac.cn>
+
+- name: Zheting Zhang
+  photo: ztzhang.jpg
+  info: |
+    Graduate student<br>
+    Email: <ztzhang@psc.ac.cn>
