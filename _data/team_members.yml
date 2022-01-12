@@ -28,17 +28,18 @@
     Postdoctoral Fellow<br>
     Email: <yuanwang@psc.ac.cn>
 
-- name: Leiting Li
-  photo: ltli.jpg
-  into: |
-    Postdoctoral Fellow<br>
-    Email: <ltli@psc.ac.cn>
-
 - name: Chana Borjigin
   photo: default.png
   info: |
     Postdoctoral Fellow<br>
     Email: <chana@psc.ac.cn>
+
+- name: Leiting Li
+  photo: ltli.jpg
+  info: |
+    Postdoctoral Fellow<br>
+    Email: <ltli@psc.ac.cn>
+
 
 - name: Zheting Zhang
   photo: ztzhang.jpg
