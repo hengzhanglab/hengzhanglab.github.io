@@ -1,5 +1,5 @@
 ---
-title: "HengZhang Lab - Home"
+title: "Home"
 layout: homelay
 excerpt: "HengZhang Lab at PSC & CEMPS"
 sitemap: false
