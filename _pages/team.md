@@ -8,6 +8,7 @@ permalink: /team/
 
 # Group Members
 
+<div class="col-sm-1"></div>
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -72,6 +73,12 @@ permalink: /team/
 
 ---
 
+<div class="col-sm-1"></div>
+
+<div class="col-sm-9 clearfix">
+
+
+
 - Current members
   - **Zhaohai Zhu** • Staff • <zhzhu@psc.ac.cn>
   - **Jiangmei Sun** • Postdoctoral Fellow • <jmsun@psc.ac.cn>
@@ -99,10 +106,14 @@ permalink: /team/
 ---
 
 - Former members
-  - **Ali Kiana-Pouya** 
-  - **Fatemeh Rasouli** 
-  - **Yi Xiong** 
+  - **Ali Kiana-Pouya**
+  - **Fatemeh Rasouli**
+  - **Yi Xiong**
   - **Hehua Zhang**
   - **Yingcun Hao**
   - ...
 
+</div>
+<div class="col-sm-2"></div>
+
+---

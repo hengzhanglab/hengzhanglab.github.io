@@ -10,7 +10,7 @@ permalink: /labmeeting/
 
 ---
 
-<div class="col-sm-4">
+<div class="col-sm-4 clearfix">
 - Week 1 (4-Jan-2022)
   - 2021 Summary
 - Week 2 (11-Jan-2022)
@@ -27,7 +27,7 @@ permalink: /labmeeting/
   - JC: Qingbing WU
 </div>
 
-<div class="col-sm-4">
+<div class="col-sm-4 clearfix">
 - Week 5 (1-Feb-2022)
   - Spring Festival
 - Week 6 (8-Feb-2022)
@@ -42,7 +42,7 @@ permalink: /labmeeting/
   - JC: Jiangmei SUN
 </div>
 
-<div class="col-sm-4">
+<div class="col-sm-4 clearfix">
 - Week 9 (1-Mar-2022)
   - PR01: Zheting ZHANG
   - PR02: Yu TAN
@@ -63,4 +63,3 @@ permalink: /labmeeting/
 </div>
 
 ---
-
