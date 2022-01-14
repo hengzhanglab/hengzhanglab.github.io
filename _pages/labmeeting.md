@@ -18,7 +18,7 @@ permalink: /labmeeting/
   - PR02: Yuan WANG
   - JC: Chana BORJIGIN
 - Week 3 (18-Jan-2022)
-  - ...
+  - NSFC application lecture
 - Week 4 (25-Jan-2022)
   - PR01: Zhaohai ZHU
   - PR02: Juan HUANG
