@@ -1,3 +1,6 @@
+- title: year
+  year: 2021
+
 - title: Salinity Effects on Guard Cell Proteome in <i>Chenopodium quinoa</i>
   authors: Rasouli F, Kiani-Pouya A, Shabala L, Li L, Tahir A, Yu M, Hedrich R, Chen Z, Wilson R, <b>Zhang H</b><sup>*</sup>, Shabala S<sup>*</sup>
   year: 2021
@@ -37,6 +40,9 @@
   display: 63(6):1091-1096
   doi: 10.1111/jipb.13103
   pmid: 33913587
+
+- title: year
+  year: 2020
 
 - title: "Thriving under Stress: How Plants Balance Growth and the Stress Response"
   authors: <b>Zhang H</b><sup>*</sup>, Zhao Y, Zhu, J-K<sup>*</sup>
@@ -94,6 +100,9 @@
   doi: 10.1071/FP20085
   pmid: 32513383
 
+- title: year
+  year: 2019
+
 - title: The genome of broomcorn millet
   authors: Zou C, Li L, Miki D, Li D, Tang Q, Xiao L, Rajput S, Deng P, Peng L, Jia W, Huang R, Zhang M, Sun Y, Hu J, Fu X, Schnable PS, Chang Y, Li F, Zhang H, Feng B, Zhu X, Liu R, Schnable JC, Zhu JK<sup>*</sup>, Zhang H<sup>*</sup>
   year: 2019
@@ -142,7 +151,8 @@
   doi: 10.1016/j.soilbio.2018.12.028
   pmid: ""
 
-
+- title: year
+  year: 2018
 
 - title:  Developing naturally stress-resistant crops for a sustainable agriculture.
   authors:  Zhang H, Li Y, Zhu JK
@@ -191,6 +201,9 @@
   display:  115(6):1388-1393
   doi:  10.1073/pnas.1715556115
   pmid:  29363594
+
+- title: year
+  year: 2017
 
 - title:  Circulating tumour DNA methylation markers for diagnosis and prognosis of hepatocellular carcinoma.
   authors:  Xu RH, Wei W, Krawczyk M, Wang W, Luo H, Flagg K, Yi S, Shi W, Quan Q, Li K, Zheng L, Zhang H, Caughey BA, Zhao Q, Hou J, Zhang R, Xu Y, Cai H, Li G, Hou R, Zhong Z, Lin D, et al
@@ -248,6 +261,9 @@
   doi:  10.1038/cr.2016.147
   pmid:  27934869
 
+- title: year
+  year: 2016
+
 - title:  The DNA demethylase ROS1 targets genomic regions with distinct chromatin modifications.
   authors:  Tang K, Lang Z, Zhang H, Zhu JK
   year:  2016
@@ -288,6 +304,9 @@
   doi:  10.1038/cr.2015.145
   pmid:  26642813
 
+- title: year
+  year: Before 2016
+
 - title:  Protecting genes from RNA silencing by destroying aberrant transcripts.
   authors:  Zhang H, Zhu J
   year:  2015
@@ -312,14 +331,6 @@
   doi:  10.1093/jxb/eru373
   pmid:  25225478
 
-- title:  "RNA-directed DNA methylation in plants: Where to start?"
-  authors:  Zhang H, He X, Zhu JK
-  year:  2013
-  journal:  RNA Biol
-  display:  10(10):1593-6
-  doi:  10.4161/rna.26312
-  pmid:  25003825
-
 - title:  The CRISPR/Cas9 system produces specific and homozygous targeted gene editing in rice in one generation.
   authors:  Zhang H, Zhang J, Wei P, Zhang B, Gou F, Feng Z, Mao Y, Yang L, Zhang H, Xu N, Zhu JK
   year:  2014
@@ -343,6 +354,14 @@
   display:  111(1):527-32
   doi:  10.1073/pnas.1320106110
   pmid:  24248388
+
+- title:  "RNA-directed DNA methylation in plants: Where to start?"
+  authors:  Zhang H, He X, Zhu JK
+  year:  2013
+  journal:  RNA Biol
+  display:  10(10):1593-6
+  doi:  10.4161/rna.26312
+  pmid:  25003825
 
 - title:  A Pre-mRNA-splicing factor is required for RNA-directed DNA methylation in Arabidopsis.
   authors:  Huang CF, Miki D, Tang K, Zhou HR, Zheng Z, Chen W, Ma ZY, Yang L, Zhang H, Liu R, He XJ, Zhu JK
