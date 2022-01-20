@@ -8,50 +8,56 @@ permalink: /members/
 
 # Group Members
 
-{% assign number_printed = 0 %}
 {% for member in site.data.members %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
+ {% if member.name == "row" %}
+  {% if rowopen == 1 %}
+   </div>
+   {% assign rowopen = 0 %}
+  {% endif %}
+  <hr />
+  <div class="row"><h2>{{ member.info }}</h2></div>
+  {% continue %}
+ {% endif %}
 
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
+ {% if rowopen != 1 %}
+  <div class = "row">
+  {% assign rowopen = 1 %}
+  {% assign i = 0 %}
+ {% endif %}
 
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}</i>
-  <ul style="overflow: hidden">
-
-  {% for record in member.info2 %}
+ <div class="col-sm-6 clearfix">
+ <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+ <h4>{{ member.name }}</h4>
+ <i>{{ member.info }}</i>
+ <ul style="overflow: hidden">
+ {% for record in member.info2 %}
   <li>{{ record }}</li>
-  {% endfor %}
+ {% endfor %}
+ </ul>
+ </div>
 
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+ {% assign i = i | plus: 1 %}
+ {% if i == 2 %}
+  </div>
+  {% assign rowopen = 0 %}
+ {% endif %}
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
+{% if rowopen == 1 %}
+ </div>
 {% endif %}
 
 ---
 
-- Former members
-  - **Ali Kiana-Pouya**
-  - **Fatemeh Rasouli**
-  - **Yi Xiong**
-  - **Hehua Zhang**
-  - **Yingcun Hao**
-  - **Meiling Zhang**
-  - ...
+## Former members
+
+- **Ali Kiana-Pouya**
+- **Fatemeh Rasouli**
+- **Yi Xiong**
+- **Hehua Zhang**
+- **Yingcun Hao**
+- **Meiling Zhang**
 
 ---
