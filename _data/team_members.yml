@@ -40,12 +40,6 @@
     Postdoctoral Fellow<br>
     Email: <ltli@psc.ac.cn>
 
-- name: Zheting Zhang
-  photo: ztzhang.jpg
-  info: |
-    Graduate student<br>
-    Email: <ztzhang@psc.ac.cn>
-
 - name: Ai Zeng
   photo: default.png
   info: |
@@ -68,6 +62,18 @@
   info: |
     Staff<br>
     Email: <jjsong@psc.ac.cn>
+
+- name: Zheting Zhang
+  photo: ztzhang.jpg
+  info: |
+    Graduate student<br>
+    Email: <ztzhang@psc.ac.cn>
+
+- name: Shaobo Zhu
+  photo: default.png
+  info: |
+    Graduate student<br>
+    Email: <>
 
 - name: Xueqin Li
   photo: default.png
