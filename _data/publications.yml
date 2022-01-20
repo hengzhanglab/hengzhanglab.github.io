@@ -2,11 +2,12 @@
   year: 2022
 
 - title: Transcriptome analyses of quinoa leaves revealed critical function of epidermal bladder cells in salt stress acclimation
-  authors: Kiani-Pouya A<sup>#</sup>, Li L<sup>#</sup>, Rasouli F, Zhang Z, Chen J, Yu M, Tahir A, Hedrich R, Shabala S<sup>*</sup>, Zhang H<sup>*</sup>
+  authors: Kiani-Pouya A<sup>#</sup>, Li L<sup>#</sup>, Rasouli F, Zhang Z, Chen J, Yu M, Tahir A, Hedrich R, Shabala S<sup>*</sup>, <b>Zhang H</b><sup>*</sup>
   year: 2022
   journal: Plant Stress
   display: 100061
   doi: 10.1016/j.stress.2022.100061
+  pmid: 
 
 - title: year
   year: 2021
