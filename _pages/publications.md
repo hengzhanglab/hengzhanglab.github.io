@@ -11,7 +11,7 @@ permalink: /publications/
 (<sup>#</sup> for equal contribution; <sup>\*</sup> for corresponding authors)
 
 <ol>
-{% for publi in site.data.recentpub %}
+{% for publi in site.data.publications %}
 
 {% if publi.title == "year" %}
 <h4>{{ publi.year }}</h4>
