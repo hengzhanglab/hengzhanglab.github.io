@@ -10,11 +10,40 @@
     - Ph.D. in Biochemistry, Purdue University, USA, 2009
     - B.S. in Biotechnology & B.A. in Economics, Peking University, China, 2003
 
+- name: row
+  info: Staff
+
 - name: Zhaohai Zhu
   photo: zhzhu.jpg
   info: |
     Staff<br>
     Email: <zhzhu@psc.ac.cn>
+
+- name: Ai Zeng
+  photo: default.png
+  info: |
+    Staff<br>
+    Email: <aizeng@psc.ac.cn>
+
+- name: Hongwei Wang
+  photo: default.png
+  info: |
+    Staff<br>
+    Email: <hwwang@psc.ac.cn>
+
+- name: Mingsuo Cheng
+  photo: default.png
+  info: |
+    Staff<br>
+
+- name: Jingjing Song
+  photo: default.png
+  info: |
+    Staff<br>
+    Email: <jjsong@psc.ac.cn>
+
+- name: row
+  info: Postdoctoral Fellow
 
 - name: Jiangmei Sun
   photo: jmsun.jpg
@@ -40,28 +69,8 @@
     Postdoctoral Fellow<br>
     Email: <ltli@psc.ac.cn>
 
-- name: Ai Zeng
-  photo: default.png
-  info: |
-    Staff<br>
-    Email: <aizeng@psc.ac.cn>
-
-- name: Hongwei Wang
-  photo: default.png
-  info: |
-    Staff<br>
-    Email: <hwwang@psc.ac.cn>
-
-- name: Mingsuo Cheng
-  photo: default.png
-  info: |
-    Staff<br>
-
-- name: Jingjing Song
-  photo: default.png
-  info: |
-    Staff<br>
-    Email: <jjsong@psc.ac.cn>
+- name: row
+  info: Students
 
 - name: Zheting Zhang
   photo: ztzhang.jpg
