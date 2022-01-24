@@ -7,7 +7,7 @@
   journal: Plant Stress
   display: 100061
   doi: 10.1016/j.stress.2022.100061
-  pmid: 
+  pmid:
 
 - title: year
   year: 2021
@@ -72,7 +72,7 @@
   pmid: 32369737
 
 - title: RNA-directed DNA methylation has an important developmental function in Arabidopsis that is masked by the chromatin remodeler PICKLE
-  authors: Yang R, He L, Huang H, Zhu JK, Lozano-Duran R, Zhang H(*)
+  authors: Yang R, He L, Huang H, Zhu JK, Lozano-Duran R, <b>Zhang H</b><sup>*</sup>
   year: 2020
   journal: J Integr Plant Biol
   display: ""
@@ -80,7 +80,7 @@
   pmid: 32515549
 
 - title: Rph1 coordinates transcription of ribosomal protein genes and ribosomal RNAs to control cell growth under nutrient stress conditions
-  authors: Shu WJ, Chen R, Yin ZH, Li F, Zhang H, Du HN(*)
+  authors: Shu WJ, Chen R, Yin ZH, Li F, <b>Zhang H</b>, Du HN<sup>*</sup>
   year: 2020
   journal: Nucleic Acids Res
   display: ""
@@ -88,7 +88,7 @@
   pmid: 32619236
 
 - title: Mechanisms of plant responses and adaptation to soil salinity
-  authors: Zhao C<sup>*</sup>, Zhang H, Song C, Zhu J-K<sup>*</sup>, Shabala S<sup>*</sup>
+  authors: Zhao C<sup>*</sup>, <b>Zhang H</b>, Song C, Zhu J-K<sup>*</sup>, Shabala S<sup>*</sup>
   year: 2020
   journal: The Innovation
   display: ""
@@ -96,7 +96,7 @@
   pmid: 34557705
 
 - title: "Sugar Beet (Beta vulgaris) Guard Cells Responses to Salinity Stress: A Proteomic Analysis"
-  authors: Rasouli F, Kiani-Pouya A, Li L, Zhang H, Chen Z, Hedrich R, Wilson R<sup>*</sup>, Shabala S<sup>*</sup>
+  authors: Rasouli F, Kiani-Pouya A, Li L, <b>Zhang H</b>, Chen Z, Hedrich R, Wilson R<sup>*</sup>, Shabala S<sup>*</sup>
   year: 2020
   journal: International Journal of Molecular Sciences
   display: 21(7):2331
@@ -104,7 +104,7 @@
   pmid: 32230932
 
 - title: Developing and validating protocols for mechanical isolation of guard-cell enriched epidermal peels for omics studies
-  authors: Rasouli F, Kiani-Pouya A, Zhang H, Shabala S<sup>*</sup>
+  authors: Rasouli F, Kiani-Pouya A, <b>Zhang H</b>, Shabala S<sup>*</sup>
   year: 2020
   journal: Functional Plant Biology
   display: ""
@@ -115,7 +115,7 @@
   year: 2019
 
 - title: The genome of broomcorn millet
-  authors: Zou C, Li L, Miki D, Li D, Tang Q, Xiao L, Rajput S, Deng P, Peng L, Jia W, Huang R, Zhang M, Sun Y, Hu J, Fu X, Schnable PS, Chang Y, Li F, Zhang H, Feng B, Zhu X, Liu R, Schnable JC, Zhu JK<sup>*</sup>, Zhang H<sup>*</sup>
+  authors: Zou C, Li L, Miki D, Li D, Tang Q, Xiao L, Rajput S, Deng P, Peng L, Jia W, Huang R, Zhang M, Sun Y, Hu J, Fu X, Schnable PS, Chang Y, Li F, Zhang H, Feng B, Zhu X, Liu R, Schnable JC, Zhu JK<sup>*</sup>, <b>Zhang H</b><sup>*</sup>
   year: 2019
   journal: Nature Communications
   display: 10:436
@@ -123,7 +123,7 @@
   pmid: 30683860
 
 - title: TMK1-mediated auxin signalling regulates differential growth of the apical hook
-  authors: Cao M(#), Chen R(#), Li P(#), Yu Y, Zheng R, Ge D, Zheng W, Wang X, Gu Y, Gelová Z, Friml J, Zhang H, Liu R, He J, Xu T<sup>*</sup>
+  authors: Cao M<sup>#</sup>, Chen R<sup>#</sup>, Li P<sup>#</sup>, Yu Y, Zheng R, Ge D, Zheng W, Wang X, Gu Y, Gelová Z, Friml J, <b>Zhang H</b>, Liu R, He J, Xu T<sup>*</sup>
   year: 2019
   journal: Nature
   display: ""
@@ -131,7 +131,7 @@
   pmid: 30944466
 
 - title: Global increase in DNA methylation during orange fruit development and ripening
-  authors: Huang H, Liu R, Niu Q, Tang K, Zhang B, Zhang H, Chen K, Zhu JK(*), Lang Z<sup>*</sup>
+  authors: Huang H, Liu R, Niu Q, Tang K, Zhang B, <b>Zhang H</b>, Chen K, Zhu JK<sup>*</sup>, Lang Z<sup>*</sup>
   year: 2019
   journal: Proc Natl Acad Sci U S A
   display: 116(4):1430-1436
@@ -139,7 +139,7 @@
   pmid: 30635417
 
 - title: A large-scale screening of quinoa accessions reveals an important role of epidermal bladder cells and stomatal patterning in salinity tolerance
-  authors: Kiani-Pouya A, Rasouli F, Bazihizina N, Zheng H, Hedrich R, Shabala S<sup>*</sup>
+  authors: Kiani-Pouya A, Rasouli F, Bazihizina N, <b>Zhang H</b>, Hedrich R, Shabala S<sup>*</sup>
   year: 2019
   journal: Environmental and Experimental Botany
   display: 168:103885
@@ -147,7 +147,7 @@
   pmid: ""
 
 - title: HDAC1 and HDAC2 Regulate Intermediate Progenitor Positioning to Safeguard Neocortical Development
-  authors: Tang T, Zhang Y, Wang Y, Cai Z, Lu Z, Li L, Huang R, Hagelkruys A, Matthias P, Zhang H, Seiser C, Xie Y<sup>*</sup>
+  authors: Tang T, Zhang Y, Wang Y, Cai Z, Lu Z, Li L, Huang R, Hagelkruys A, Matthias P, <b>Zhang H</b>, Seiser C, Xie Y<sup>*</sup>
   year: 2019
   journal: Neuron
   display: ""
@@ -155,7 +155,7 @@
   pmid: 30709655
 
 - title: Soil aluminum oxides determine biological nitrogen fixation and diazotrophic communities across major types of paddy soils in China
-  authors: Wang X, Liu B, Ma J, Zhang Y, Hu T, Zhang H, Feng Y, Pan H, Xu Z, Liu G, Lin X, Zhu J, Bei Q<sup>*</sup>, Xie Z<sup>*</sup>
+  authors: Wang X, Liu B, Ma J, Zhang Y, Hu T, <b>Zhang H</b>, Feng Y, Pan H, Xu Z, Liu G, Lin X, Zhu J, Bei Q<sup>*</sup>, Xie Z<sup>*</sup>
   year: 2019
   journal: Soil Biological and Biochemistry
   display: 131:81-89
@@ -166,7 +166,7 @@
   year: 2018
 
 - title:  Developing naturally stress-resistant crops for a sustainable agriculture.
-  authors:  Zhang H, Li Y, Zhu JK
+  authors:  <b>Zhang H</b>, Li Y, Zhu JK
   year:  2018
   journal:  Nat Plants
   display:  4(12):989-996
@@ -174,7 +174,7 @@
   pmid:  30478360
 
 - title:  Arabidopsis AGDP1 links H3K9me2 to DNA methylation in heterochromatin.
-  authors:  Zhang C, Du X, Tang K, Yang Z, Pan L, Zhu P, Luo J, Jiang Y, Zhang H, Wan H, Wang X, Wu F, Tao WA, He XJ, Zhang H, Bressan RA, Du J, Zhu JK
+  authors:  Zhang C, Du X, Tang K, Yang Z, Pan L, Zhu P, Luo J, Jiang Y, <b>Zhang H</b>, Wan H, Wang X, Wu F, Tao WA, He XJ, Zhang H, Bressan RA, Du J, Zhu JK
   year:  2018
   journal:  Nat Commun
   display:  9(1):4547
@@ -182,7 +182,7 @@
   pmid:  30382101
 
 - title:  Understanding the Molecular Basis of Salt Sequestration in Epidermal Bladder Cells of Chenopodium quinoa.
-  authors:  Böhm J, Messerer M, Müller HM, Scholz-Starke J, Gradogna A, Scherzer S, Maierhofer T, Bazihizina N, Zhang H, Stigloher C, Ache P, Al-Rasheid KAS, Mayer KFX, Shabala S, Carpaneto A, Haberer G, Zhu JK, Hedrich R
+  authors:  Böhm J, Messerer M, Müller HM, Scholz-Starke J, Gradogna A, Scherzer S, Maierhofer T, Bazihizina N, <b>Zhang H</b>, Stigloher C, Ache P, Al-Rasheid KAS, Mayer KFX, Shabala S, Carpaneto A, Haberer G, Zhu JK, Hedrich R
   year:  2018
   journal:  Curr Biol
   display:  28(19):3075-3085.e7
@@ -190,7 +190,7 @@
   pmid:  30245105
 
 - title:  Genome Sequence of Bacillus megaterium Strain YC4-R4, a Plant Growth-Promoting Rhizobacterium Isolated from a High-Salinity Environment.
-  authors:  Vílchez JI, Tang Q, Kaushal R, Wang W, Lv S, He D, Chu Z, Zhang H, Liu R, Zhang H
+  authors:  Vílchez JI, Tang Q, Kaushal R, Wang W, Lv S, He D, Chu Z, <b>Zhang H</b>, Liu R, Zhang H
   year:  2018
   journal:  Genome Announc
   display:  6(25)
@@ -198,7 +198,7 @@
   pmid:  29930045
 
 - title:  The Chromatin Remodelers PKL and PIE1 Act in an Epigenetic Pathway That Determines H3K27me3 Homeostasis in Arabidopsis.
-  authors:  Carter B, Bishop B, Ho KK, Huang R, Jia W, Zhang H, Pascuzzi PE, Deal RB, Ogas J
+  authors:  Carter B, Bishop B, Ho KK, Huang R, Jia W, <b>Zhang H</b>, Pascuzzi PE, Deal RB, Ogas J
   year:  2018
   journal:  Plant Cell
   display:  30(6):1337-1352
@@ -206,7 +206,7 @@
   pmid:  29802212
 
 - title:  A virus-targeted plant receptor-like kinase promotes cell-to-cell spread of RNAi.
-  authors:  Rosas-Diaz T, Zhang D, Fan P, Wang L, Ding X, Jiang Y, Jimenez-Gongora T, Medina-Puche L, Zhao X, Feng Z, Zhang G, Liu X, Bejarano ER, Tan L, Zhang H, Zhu JK, Xing W, Faulkner C, Nagawa S, Lozano-Duran R
+  authors:  Rosas-Diaz T, Zhang D, Fan P, Wang L, Ding X, Jiang Y, Jimenez-Gongora T, Medina-Puche L, Zhao X, Feng Z, Zhang G, Liu X, Bejarano ER, Tan L, <b>Zhang H</b>, Zhu JK, Xing W, Faulkner C, Nagawa S, Lozano-Duran R
   year:  2018
   journal:  Proc Natl Acad Sci U S A
   display:  115(6):1388-1393
@@ -217,7 +217,7 @@
   year: 2017
 
 - title:  Circulating tumour DNA methylation markers for diagnosis and prognosis of hepatocellular carcinoma.
-  authors:  Xu RH, Wei W, Krawczyk M, Wang W, Luo H, Flagg K, Yi S, Shi W, Quan Q, Li K, Zheng L, Zhang H, Caughey BA, Zhao Q, Hou J, Zhang R, Xu Y, Cai H, Li G, Hou R, Zhong Z, Lin D, et al
+  authors:  Xu RH, Wei W, Krawczyk M, Wang W, Luo H, Flagg K, Yi S, Shi W, Quan Q, Li K, Zheng L, <b>Zhang H</b>, Caughey BA, Zhao Q, Hou J, Zhang R, Xu Y, Cai H, Li G, Hou R, Zhong Z, Lin D, et al
   year:  2017
   journal:  Nat Mater
   display:  16(11):1155-1161
@@ -225,7 +225,7 @@
   pmid:  29035356
 
 - title:  A high-quality genome assembly of quinoa provides insights into the molecular basis of salt bladder-based salinity tolerance and the exceptional nutritional value.
-  authors:  Zou C, Chen A, Xiao L, Muller HM, Ache P, Haberer G, Zhang M, Jia W, Deng P, Huang R, Lang D, Li F, Zhan D, Wu X, Zhang H, Bohm J, Liu R, Shabala S, Hedrich R, Zhu JK, Zhang H
+  authors:  Zou C, Chen A, Xiao L, Muller HM, Ache P, Haberer G, Zhang M, Jia W, Deng P, Huang R, Lang D, Li F, Zhan D, Wu X, <b>Zhang H</b>, Bohm J, Liu R, Shabala S, Hedrich R, Zhu JK, Zhang H
   year:  2017
   journal:  Cell Res
   display:  27(11):1327-1340
@@ -233,7 +233,7 @@
   pmid:  28994416
 
 - title:  A protein complex regulates RNA processing of intronic heterochromatin-containing genes in Arabidopsis.
-  authors:  Duan CG, Wang X, Zhang L, Xiong X, Zhang Z, Tang K, Pan L, Hsu CC, Xu H, Tao WA, Zhang H, Zhu JK
+  authors:  Duan CG, Wang X, Zhang L, Xiong X, Zhang Z, Tang K, Pan L, Hsu CC, Xu H, Tao WA, <b>Zhang H</b>, Zhu JK
   year:  2017
   journal:  Proc Natl Acad Sci U S A
   display:  114(35):E7377-E7384
@@ -241,7 +241,7 @@
   pmid:  28808009
 
 - title:  DNA methylation markers for diagnosis and prognosis of common cancers.
-  authors:  Hao X, Luo H, Krawczyk M, Wei W, Wang W, Wang J, Flagg K, Hou J, Zhang H, Yi S, Jafari M, Lin D, Chung C, Caughey BA, Li G, Dhar D, Shi W, Zheng L, Hou R, Zhu J, Zhao L, Fu X, et al
+  authors:  Hao X, Luo H, Krawczyk M, Wei W, Wang W, Wang J, Flagg K, Hou J, <b>Zhang H</b>, Yi S, Jafari M, Lin D, Chung C, Caughey BA, Li G, Dhar D, Shi W, Zheng L, Hou R, Zhu J, Zhao L, Fu X, et al
   year:  2017
   journal:  Proc Natl Acad Sci U S A
   display:  114(28):7414-7419
@@ -249,7 +249,7 @@
   pmid:  28652331
 
 - title:  The developmental regulator PKL is required to maintain correct DNA methylation patterns at RNA-directed DNA methylation loci.
-  authors:  Yang R, Zheng Z, Chen Q, Yang L, Huang H, Miki D, Wu W, Zeng L, Liu J, Zhou JX, Ogas J, Zhu JK, He XJ, Zhang H
+  authors:  Yang R, Zheng Z, Chen Q, Yang L, Huang H, Miki D, Wu W, Zeng L, Liu J, Zhou JX, Ogas J, Zhu JK, He XJ, <b>Zhang H</b>
   year:  2017
   journal:  Genome Biol
   display:  18(1):103
@@ -257,7 +257,7 @@
   pmid:  28569170
 
 - title:  Genome sequencing and analysis of Ralstonia solanacearum phylotype I strains FJAT-91, FJAT-452 and FJAT-462 isolated from tomato, eggplant, and chili pepper in China.
-  authors:  Sun Y, Wang K, Caceres-Moreno C, Jia W, Chen A, Zhang H, Liu R, Macho AP
+  authors:  Sun Y, Wang K, Caceres-Moreno C, Jia W, Chen A, <b>Zhang H</b>, Liu R, Macho AP
   year:  2017
   journal:  Stand Genomic Sci
   display:  12:29
@@ -265,7 +265,7 @@
   pmid:  28428834
 
 - title:  A pair of transposon-derived proteins function in a histone acetyltransferase complex for active DNA demethylation.
-  authors:  Duan CG, Wang X, Xie S, Pan L, Miki D, Tang K, Hsu CC, Lei M, Zhong Y, Hou YJ, Wang Z, Zhang Z, Mangrauthia SK, Xu H, Zhang H, Dilkes B, Tao WA, Zhu JK
+  authors:  Duan CG, Wang X, Xie S, Pan L, Miki D, Tang K, Hsu CC, Lei M, Zhong Y, Hou YJ, Wang Z, Zhang Z, Mangrauthia SK, Xu H, <b>Zhang H</b>, Dilkes B, Tao WA, Zhu JK
   year:  2017
   journal:  Cell Res
   display:  27(2):226-240
@@ -276,7 +276,7 @@
   year: 2016
 
 - title:  The DNA demethylase ROS1 targets genomic regions with distinct chromatin modifications.
-  authors:  Tang K, Lang Z, Zhang H, Zhu JK
+  authors:  Tang K, Lang Z, <b>Zhang H</b>, Zhu JK
   year:  2016
   journal:  Nat Plants
   display:  2(11):16169
@@ -284,7 +284,7 @@
   pmid:  27797352
 
 - title:  The chromatin remodeler DDM1 promotes hybrid vigor by regulating salicylic acid metabolism.
-  authors:  Zhang Q, Li Y, Xu T, Srivastava AK, Wang D, Zeng L, Yang L, He L, Zhang H, Zheng Z, Yang DL, Zhao C, Dong J, Gong Z, Liu R, Zhu JK
+  authors:  Zhang Q, Li Y, Xu T, Srivastava AK, Wang D, Zeng L, Yang L, He L, <b>Zhang H</b>, Zheng Z, Yang DL, Zhao C, Dong J, Gong Z, Liu R, Zhu JK
   year:  2016
   journal:  Cell Discov
   display:  2:16027
@@ -292,7 +292,7 @@
   pmid:  27551435
 
 - title:  Methylation interactions in Arabidopsis hybrids require RNA-directed DNA methylation and are influenced by genetic variation.
-  authors:  Zhang Q, Wang D, Lang Z, He L, Yang L, Zeng L, Li Y, Zhao C, Huang H, Zhang H, Zhang H, Zhu JK
+  authors:  Zhang Q, Wang D, Lang Z, He L, Yang L, Zeng L, Li Y, Zhao C, Huang H, <b>Zhang H</b>, Zhang H, Zhu JK
   year:  2016
   journal:  Proc Natl Acad Sci U S A
   display:  113(29):E4248-56
@@ -300,7 +300,7 @@
   pmid:  27382183
 
 - title:  Cross-Talk Between Sporophyte and Gametophyte Generations Is Promoted by CHD3 Chromatin Remodelers in Arabidopsis thaliana.
-  authors:  Carter B, Henderson JT, Svedin E, Fiers M, McCarthy K, Smith A, Guo C, Bishop B, Zhang H, Riksen T, Shockley A, Dilkes BP, Boutilier K, Ogas J
+  authors:  Carter B, Henderson JT, Svedin E, Fiers M, McCarthy K, Smith A, Guo C, Bishop B, <b>Zhang H</b>, Riksen T, Shockley A, Dilkes BP, Boutilier K, Ogas J
   year:  2016
   journal:  Genetics
   display:  203(2):817-29
@@ -308,7 +308,7 @@
   pmid:  27075727
 
 - title:  Dicer-independent RNA-directed DNA methylation in Arabidopsis.
-  authors:  Yang DL, Zhang G, Tang K, Li J, Yang L, Huang H, Zhang H, Zhu JK
+  authors:  Yang DL, Zhang G, Tang K, Li J, Yang L, Huang H, <b>Zhang H</b>, Zhu JK
   year:  2016
   journal:  Cell Res
   display:  26(11):1264
@@ -319,7 +319,7 @@
   year: Before 2016
 
 - title:  Protecting genes from RNA silencing by destroying aberrant transcripts.
-  authors:  Zhang H, Zhu J
+  authors:  <b>Zhang H</b>, Zhu J
   year:  2015
   journal:  Sci China Life Sci
   display:  58(6):613-5
@@ -327,7 +327,7 @@
   pmid:  25994414
 
 - title:  Involvement of Multiple Gene-Silencing Pathways in a Paramutation-like Phenomenon in Arabidopsis.
-  authors:  Zheng Z, Yu H, Miki D, Jin D, Zhang Q, Ren Z, Gong Z, Zhang H, Zhu JK
+  authors:  Zheng Z, Yu H, Miki D, Jin D, Zhang Q, Ren Z, Gong Z, <b>Zhang H</b>, Zhu JK
   year:  2015
   journal:  Cell Rep
   display:  11(8):1160-7
@@ -335,7 +335,7 @@
   pmid:  25981044
 
 - title:  Comparative physiological, metabolomic, and transcriptomic analyses reveal mechanisms of improved abiotic stress resistance in bermudagrass [Cynodon dactylon (L). Pers.] by exogenous melatonin.
-  authors:  Shi H, Jiang C, Ye T, Tan DX, Reiter RJ, Zhang H, Liu R, Chan Z
+  authors:  Shi H, Jiang C, Ye T, Tan DX, Reiter RJ, <b>Zhang H</b>, Liu R, Chan Z
   year:  2015
   journal:  J Exp Bot
   display:  66(3):681-94
@@ -343,7 +343,7 @@
   pmid:  25225478
 
 - title:  The CRISPR/Cas9 system produces specific and homozygous targeted gene editing in rice in one generation.
-  authors:  Zhang H, Zhang J, Wei P, Zhang B, Gou F, Feng Z, Mao Y, Yang L, Zhang H, Xu N, Zhu JK
+  authors:  Zhang H, Zhang J, Wei P, Zhang B, Gou F, Feng Z, Mao Y, Yang L, <b>Zhang H</b>, Xu N, Zhu JK
   year:  2014
   journal:  Plant Biotechnol J
   display:  12(6):797-807
@@ -351,7 +351,7 @@
   pmid:  24854982
 
 - title:  An Rrp6-like protein positively regulates noncoding RNA levels and DNA methylation in Arabidopsis.
-  authors:  Zhang H, Tang K, Qian W, Duan CG, Wang B, Zhang H, Wang P, Zhu X, Lang Z, Yang Y, Zhu JK
+  authors:  Zhang H, Tang K, Qian W, Duan CG, Wang B, <b>Zhang H</b>, Wang P, Zhu X, Lang Z, Yang Y, Zhu JK
   year:  2014
   journal:  Mol Cell
   display:  54(3):418-30
@@ -359,7 +359,7 @@
   pmid:  24726328
 
 - title:  Arabidopsis EDM2 promotes IBM1 distal polyadenylation and regulates genome DNA methylation patterns.
-  authors:  Lei M, La H, Lu K, Wang P, Miki D, Ren Z, Duan CG, Wang X, Tang K, Zeng L, Yang L, Zhang H, Nie W, Liu P, Zhou J, Liu R, Zhong Y, Liu D, Zhu JK
+  authors:  Lei M, La H, Lu K, Wang P, Miki D, Ren Z, Duan CG, Wang X, Tang K, Zeng L, Yang L, <b>Zhang H</b>, Nie W, Liu P, Zhou J, Liu R, Zhong Y, Liu D, Zhu JK
   year:  2014
   journal:  Proc Natl Acad Sci U S A
   display:  111(1):527-32
@@ -367,7 +367,7 @@
   pmid:  24248388
 
 - title:  "RNA-directed DNA methylation in plants: Where to start?"
-  authors:  Zhang H, He X, Zhu JK
+  authors:  <b>Zhang H</b>, He X, Zhu JK
   year:  2013
   journal:  RNA Biol
   display:  10(10):1593-6
@@ -375,7 +375,7 @@
   pmid:  25003825
 
 - title:  A Pre-mRNA-splicing factor is required for RNA-directed DNA methylation in Arabidopsis.
-  authors:  Huang CF, Miki D, Tang K, Zhou HR, Zheng Z, Chen W, Ma ZY, Yang L, Zhang H, Liu R, He XJ, Zhu JK
+  authors:  Huang CF, Miki D, Tang K, Zhou HR, Zheng Z, Chen W, Ma ZY, Yang L, <b>Zhang H</b>, Liu R, He XJ, Zhu JK
   year:  2013
   journal:  PLoS Genet
   display:  9(9):e1003779
@@ -383,7 +383,7 @@
   pmid:  24068953
 
 - title:  DTF1 is a core component of RNA-directed DNA methylation and may assist in the recruitment of Pol IV.
-  authors:  Zhang H, Ma ZY, Zeng L, Tanaka K, Zhang CJ, Ma J, Bai G, Wang P, Zhang SW, Liu ZW, Cai T, Tang K, Liu R, Shi X, He XJ, Zhu JK
+  authors:  <b>Zhang H</b>, Ma ZY, Zeng L, Tanaka K, Zhang CJ, Ma J, Bai G, Wang P, Zhang SW, Liu ZW, Cai T, Tang K, Liu R, Shi X, He XJ, Zhu JK
   year:  2013
   journal:  Proc Natl Acad Sci U S A
   display:  110(20):8290-5
@@ -391,7 +391,7 @@
   pmid:  23637343
 
 - title:  PICKLE is a CHD subfamily II ATP-dependent chromatin remodeling factor.
-  authors:  Ho KK, Zhang H, Golden BL, Ogas J
+  authors:  Ho KK, <b>Zhang H</b>, Golden BL, Ogas J
   year:  2013
   journal:  Biochim Biophys Acta
   display:  1829(2):199-210
@@ -399,7 +399,7 @@
   pmid:  23128324
 
 - title:  A histone acetyltransferase regulates active DNA demethylation in Arabidopsis.
-  authors:  Qian W, Miki D, Zhang H, Liu Y, Zhang X, Tang K, Kan Y, La H, Li X, Li S, Zhu X, Shi X, Zhang K, Pontes O, Chen X, Liu R, Gong Z, Zhu JK
+  authors:  Qian W, Miki D, <b>Zhang H</b>, Liu Y, Zhang X, Tang K, Kan Y, La H, Li X, Li S, Zhu X, Shi X, Zhang K, Pontes O, Chen X, Liu R, Gong Z, Zhu JK
   year:  2012
   journal:  Science
   display:  336(6087):1445-8
@@ -407,7 +407,7 @@
   pmid:  22700931
 
 - title:  The CHD3 remodeler PICKLE associates with genes enriched for trimethylation of histone H3 lysine 27.
-  authors:  Zhang H, Bishop B, Ringenberg W, Muir WM, Ogas J
+  authors:  <b>Zhang H</b>, Bishop B, Ringenberg W, Muir WM, Ogas J
   year:  2012
   journal:  Plant Physiol
   display:  159(1):418-32
@@ -415,7 +415,7 @@
   pmid:  22452853
 
 - title:  An epigenetic perspective on developmental regulation of seed genes.
-  authors:  Zhang H, Ogas J
+  authors:  <b>Zhang H</b>, Ogas J
   year:  2009
   journal:  Mol Plant
   display:  2(4):610-627
@@ -423,7 +423,7 @@
   pmid:  19825643
 
 - title:  The CHD3 remodeler PICKLE promotes trimethylation of histone H3 lysine 27.
-  authors:  Zhang H, Rider SD Jr, Henderson JT, Fountain M, Chuang K, Kandachar V, Simons A, Edenberg HJ, Romero-Severson J, Muir WM, Ogas J
+  authors:  <b>Zhang H</b>, Rider SD Jr, Henderson JT, Fountain M, Chuang K, Kandachar V, Simons A, Edenberg HJ, Romero-Severson J, Muir WM, Ogas J
   year:  2008
   journal:  J Biol Chem
   display:  283(33):22637-48
@@ -431,7 +431,7 @@
   pmid:  18539592
 
 - title:  PICKLE acts during germination to repress expression of embryonic traits.
-  authors:  Li HC, Chuang K, Henderson JT, Rider SD Jr, Bai Y, Zhang H, Fountain M, Gerber J, Ogas J
+  authors:  Li HC, Chuang K, Henderson JT, Rider SD Jr, Bai Y, <b>Zhang H</b>, Fountain M, Gerber J, Ogas J
   year:  2005
   journal:  Plant J
   display:  44(6):1010-22.
