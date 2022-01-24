@@ -59,5 +59,8 @@ permalink: /members/
 - **Hehua Zhang**
 - **Yingcun Hao**
 - **Meiling Zhang**
+- **Jianfei Guo**
+- **Yuwei Jiang**
+- ...
 
 ---
