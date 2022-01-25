@@ -10,7 +10,7 @@ permalink: /labmeeting/
 
 ---
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-4 clearfix" style="background-color:#fae3d9;border-radius:10%;">
 
 #### January
 
@@ -28,7 +28,7 @@ permalink: /labmeeting/
 
 </div>
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-4 clearfix" style="background-color:#ffb6b9;border-radius:10%;">
 
 #### Febrary
 
@@ -46,7 +46,7 @@ permalink: /labmeeting/
   - JC: Qingbing WU
 </div>
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-4 clearfix" style="background-color:#bbded6;border-radius:10%;">
 
 #### March
 
@@ -72,7 +72,7 @@ permalink: /labmeeting/
   - JC: Shaobo ZHU
 </div>
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-4 clearfix" style="background-color:#8ac6d1;border-radius:10%;">
 
 #### April
 
