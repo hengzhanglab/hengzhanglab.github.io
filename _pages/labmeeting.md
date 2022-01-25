@@ -11,6 +11,9 @@ permalink: /labmeeting/
 ---
 
 <div class="col-sm-4 clearfix">
+
+#### January
+
 - Week 1 (4-Jan-2022)
   - 2021 Summary
 - Week 2 (11-Jan-2022)
@@ -22,10 +25,13 @@ permalink: /labmeeting/
 - Week 4 (25-Jan-2022)
   - PR01: Zhaohai ZHU
   - PR02: Juan HUANG
-  - JC: Zheting ZHANG
+
 </div>
 
 <div class="col-sm-4 clearfix">
+
+#### Febrary
+
 - Week 5 (1-Feb-2022)
   - Spring Festival
 - Week 6 (8-Feb-2022)
@@ -33,34 +39,46 @@ permalink: /labmeeting/
 - Week 7 (15-Feb-2022)
   - PR01: Leiting LI
   - PR02: Shaobo ZHU
-  - JC: Qingbing WU
+  - JC: Zheting ZHANG
 - Week 8: (22-Feb-2022)
   - PR01: Chana BORJIGIN
   - PR02: Tian DAI
-  - JC: Lishuo WANG
+  - JC: Qingbing WU
 </div>
 
 <div class="col-sm-4 clearfix">
+
+#### March
+
 - Week 9 (1-Mar-2022)
   - PR01: Xueqin LI
   - PR02: Ruoyun CHEN
-  - JC: Jiangmei SUN
+  - JC: Lishuo WANG
 - Week 10 (8-Mar-2022)
   - PR01: Zheting ZHANG
   - PR02: Yu TAN
-  - JC: Yuan WANG
+  - JC: Jiangmei SUN
 - Week 11 (15-Mar-2022)
   - PR01: Qingbing WU
   - PR02: Yuwei WANG
-  - JC: Juan HUANG
+  - JC: Yuan WANG
 - Week 12 (22-Mar-2022)
   - PR01: Lishuo WANG
   - PR02: Yuan LONG
-  - JC: Shaobo ZHU
+  - JC: Juan HUANG
 - Week 13 (29-Mar-2022)
   - PR01: Jiangmei SUN
   - PR02: Yuanhao ZHU
+  - JC: Shaobo ZHU
+</div>
+
+<div class="col-sm-4 clearfix">
+
+#### April
+
+- Week 14 (4-Apr-2022)
   - JC: Xueqin LI
+
 </div>
 
 ---
