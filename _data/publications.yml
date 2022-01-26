@@ -165,48 +165,48 @@
 - title: year
   year: 2018
 
-- title:  Developing naturally stress-resistant crops for a sustainable agriculture.
-  authors:  <b>Zhang H</b>, Li Y, Zhu JK
+- title:  Developing naturally stress-resistant crops for a sustainable agriculture
+  authors:  <b>Zhang H</b><sup>*</sup>, Li Y, Zhu JK<sup>*</sup>
   year:  2018
   journal:  Nat Plants
   display:  4(12):989-996
   doi:  10.1038/s41477-018-0309-4
   pmid:  30478360
 
-- title:  Arabidopsis AGDP1 links H3K9me2 to DNA methylation in heterochromatin.
-  authors:  Zhang C, Du X, Tang K, Yang Z, Pan L, Zhu P, Luo J, Jiang Y, <b>Zhang H</b>, Wan H, Wang X, Wu F, Tao WA, He XJ, Zhang H, Bressan RA, Du J, Zhu JK
+- title:  Arabidopsis AGDP1 links H3K9me2 to DNA methylation in heterochromatin
+  authors:  Zhang C<sup>#</sup>, Du X<sup>#</sup>, Tang K<sup>#</sup>, Yang Z, Pan L, Zhu P, Luo J, Jiang Y, <b>Zhang H</b>, Wan H, Wang X, Wu F, Tao WA, He XJ, Zhang H, Bressan RA, Du J<sup>*</sup>, Zhu JK<sup>*</sup>
   year:  2018
   journal:  Nat Commun
   display:  9(1):4547
   doi:  10.1038/s41467-018-06965-w
   pmid:  30382101
 
-- title:  Understanding the Molecular Basis of Salt Sequestration in Epidermal Bladder Cells of Chenopodium quinoa.
-  authors:  Böhm J, Messerer M, Müller HM, Scholz-Starke J, Gradogna A, Scherzer S, Maierhofer T, Bazihizina N, <b>Zhang H</b>, Stigloher C, Ache P, Al-Rasheid KAS, Mayer KFX, Shabala S, Carpaneto A, Haberer G, Zhu JK, Hedrich R
+- title:  Understanding the Molecular Basis of Salt Sequestration in Epidermal Bladder Cells of Chenopodium quinoa
+  authors:  Böhm J<sup>#</sup>, Messerer M<sup>#</sup>, Müller HM<sup>#</sup>, Scholz-Starke J, Gradogna A, Scherzer S, Maierhofer T, Bazihizina N, <b>Zhang H</b>, Stigloher C, Ache P, Al-Rasheid KAS, Mayer KFX, Shabala S, Carpaneto A, Haberer G<sup>*</sup>, Zhu JK<sup>*</sup>, Hedrich R<sup>*</sup>
   year:  2018
   journal:  Curr Biol
   display:  28(19):3075-3085.e7
   doi:  10.1016/j.cub.2018.08.004
   pmid:  30245105
 
-- title:  Genome Sequence of Bacillus megaterium Strain YC4-R4, a Plant Growth-Promoting Rhizobacterium Isolated from a High-Salinity Environment.
-  authors:  Vílchez JI, Tang Q, Kaushal R, Wang W, Lv S, He D, Chu Z, <b>Zhang H</b>, Liu R, Zhang H
+- title:  Genome Sequence of <i>Bacillus megaterium</i> Strain YC4-R4, a Plant Growth-Promoting Rhizobacterium Isolated from a High-Salinity Environment
+  authors:  Vílchez JI, Tang Q, Kaushal R, Wang W, Lv S, He D, Chu Z, <b>Zhang H</b>, Liu R, Zhang H<sup>*</sup>
   year:  2018
-  journal:  Genome Announc
+  journal:  Genome Announcements
   display:  6(25)
   doi:  10.1128/genomeA.00527-18
   pmid:  29930045
 
-- title:  The Chromatin Remodelers PKL and PIE1 Act in an Epigenetic Pathway That Determines H3K27me3 Homeostasis in Arabidopsis.
-  authors:  Carter B, Bishop B, Ho KK, Huang R, Jia W, <b>Zhang H</b>, Pascuzzi PE, Deal RB, Ogas J
+- title:  The Chromatin Remodelers PKL and PIE1 Act in an Epigenetic Pathway That Determines H3K27me3 Homeostasis in Arabidopsis
+  authors:  Carter B, Bishop B, Ho KK, Huang R, Jia W, <b>Zhang H</b>, Pascuzzi PE, Deal RB, Ogas J<sup>*</sup>
   year:  2018
   journal:  Plant Cell
   display:  30(6):1337-1352
   doi:  10.1105/tpc.17.00867
   pmid:  29802212
 
-- title:  A virus-targeted plant receptor-like kinase promotes cell-to-cell spread of RNAi.
-  authors:  Rosas-Diaz T, Zhang D, Fan P, Wang L, Ding X, Jiang Y, Jimenez-Gongora T, Medina-Puche L, Zhao X, Feng Z, Zhang G, Liu X, Bejarano ER, Tan L, <b>Zhang H</b>, Zhu JK, Xing W, Faulkner C, Nagawa S, Lozano-Duran R
+- title:  A virus-targeted plant receptor-like kinase promotes cell-to-cell spread of RNAi
+  authors:  Rosas-Diaz T, Zhang D, Fan P, Wang L, Ding X, Jiang Y, Jimenez-Gongora T, Medina-Puche L, Zhao X, Feng Z, Zhang G, Liu X, Bejarano ER, Tan L, <b>Zhang H</b>, Zhu JK, Xing W, Faulkner C, Nagawa S, Lozano-Duran R<sup>*</sup>
   year:  2018
   journal:  Proc Natl Acad Sci U S A
   display:  115(6):1388-1393
@@ -216,7 +216,7 @@
 - title: year
   year: 2017
 
-- title:  Circulating tumour DNA methylation markers for diagnosis and prognosis of hepatocellular carcinoma.
+- title:  Circulating tumour DNA methylation markers for diagnosis and prognosis of hepatocellular carcinoma
   authors:  Xu RH, Wei W, Krawczyk M, Wang W, Luo H, Flagg K, Yi S, Shi W, Quan Q, Li K, Zheng L, <b>Zhang H</b>, Caughey BA, Zhao Q, Hou J, Zhang R, Xu Y, Cai H, Li G, Hou R, Zhong Z, Lin D, et al
   year:  2017
   journal:  Nat Mater
@@ -224,7 +224,7 @@
   doi:  10.1038/nmat4997
   pmid:  29035356
 
-- title:  A high-quality genome assembly of quinoa provides insights into the molecular basis of salt bladder-based salinity tolerance and the exceptional nutritional value.
+- title:  A high-quality genome assembly of quinoa provides insights into the molecular basis of salt bladder-based salinity tolerance and the exceptional nutritional value
   authors:  Zou C, Chen A, Xiao L, Muller HM, Ache P, Haberer G, Zhang M, Jia W, Deng P, Huang R, Lang D, Li F, Zhan D, Wu X, <b>Zhang H</b>, Bohm J, Liu R, Shabala S, Hedrich R, Zhu JK, Zhang H
   year:  2017
   journal:  Cell Res
@@ -232,7 +232,7 @@
   doi:  10.1038/cr.2017.124
   pmid:  28994416
 
-- title:  A protein complex regulates RNA processing of intronic heterochromatin-containing genes in Arabidopsis.
+- title:  A protein complex regulates RNA processing of intronic heterochromatin-containing genes in Arabidopsis
   authors:  Duan CG, Wang X, Zhang L, Xiong X, Zhang Z, Tang K, Pan L, Hsu CC, Xu H, Tao WA, <b>Zhang H</b>, Zhu JK
   year:  2017
   journal:  Proc Natl Acad Sci U S A
@@ -240,7 +240,7 @@
   doi:  10.1073/pnas.1710683114
   pmid:  28808009
 
-- title:  DNA methylation markers for diagnosis and prognosis of common cancers.
+- title:  DNA methylation markers for diagnosis and prognosis of common cancers
   authors:  Hao X, Luo H, Krawczyk M, Wei W, Wang W, Wang J, Flagg K, Hou J, <b>Zhang H</b>, Yi S, Jafari M, Lin D, Chung C, Caughey BA, Li G, Dhar D, Shi W, Zheng L, Hou R, Zhu J, Zhao L, Fu X, et al
   year:  2017
   journal:  Proc Natl Acad Sci U S A
@@ -248,7 +248,7 @@
   doi:  10.1073/pnas.1703577114
   pmid:  28652331
 
-- title:  The developmental regulator PKL is required to maintain correct DNA methylation patterns at RNA-directed DNA methylation loci.
+- title:  The developmental regulator PKL is required to maintain correct DNA methylation patterns at RNA-directed DNA methylation loci
   authors:  Yang R, Zheng Z, Chen Q, Yang L, Huang H, Miki D, Wu W, Zeng L, Liu J, Zhou JX, Ogas J, Zhu JK, He XJ, <b>Zhang H</b>
   year:  2017
   journal:  Genome Biol
@@ -256,7 +256,7 @@
   doi:  10.1186/s13059-017-1226-y
   pmid:  28569170
 
-- title:  Genome sequencing and analysis of Ralstonia solanacearum phylotype I strains FJAT-91, FJAT-452 and FJAT-462 isolated from tomato, eggplant, and chili pepper in China.
+- title:  Genome sequencing and analysis of Ralstonia solanacearum phylotype I strains FJAT-91, FJAT-452 and FJAT-462 isolated from tomato, eggplant, and chili pepper in China
   authors:  Sun Y, Wang K, Caceres-Moreno C, Jia W, Chen A, <b>Zhang H</b>, Liu R, Macho AP
   year:  2017
   journal:  Stand Genomic Sci
@@ -264,7 +264,7 @@
   doi:  10.1186/s40793-017-0241-7
   pmid:  28428834
 
-- title:  A pair of transposon-derived proteins function in a histone acetyltransferase complex for active DNA demethylation.
+- title:  A pair of transposon-derived proteins function in a histone acetyltransferase complex for active DNA demethylation
   authors:  Duan CG, Wang X, Xie S, Pan L, Miki D, Tang K, Hsu CC, Lei M, Zhong Y, Hou YJ, Wang Z, Zhang Z, Mangrauthia SK, Xu H, <b>Zhang H</b>, Dilkes B, Tao WA, Zhu JK
   year:  2017
   journal:  Cell Res
@@ -275,7 +275,7 @@
 - title: year
   year: 2016
 
-- title:  The DNA demethylase ROS1 targets genomic regions with distinct chromatin modifications.
+- title:  The DNA demethylase ROS1 targets genomic regions with distinct chromatin modifications
   authors:  Tang K, Lang Z, <b>Zhang H</b>, Zhu JK
   year:  2016
   journal:  Nat Plants
@@ -283,7 +283,7 @@
   doi:  10.1038/nplants.2016.169
   pmid:  27797352
 
-- title:  The chromatin remodeler DDM1 promotes hybrid vigor by regulating salicylic acid metabolism.
+- title:  The chromatin remodeler DDM1 promotes hybrid vigor by regulating salicylic acid metabolism
   authors:  Zhang Q, Li Y, Xu T, Srivastava AK, Wang D, Zeng L, Yang L, He L, <b>Zhang H</b>, Zheng Z, Yang DL, Zhao C, Dong J, Gong Z, Liu R, Zhu JK
   year:  2016
   journal:  Cell Discov
@@ -291,7 +291,7 @@
   doi:  10.1038/celldisc.2016.27
   pmid:  27551435
 
-- title:  Methylation interactions in Arabidopsis hybrids require RNA-directed DNA methylation and are influenced by genetic variation.
+- title:  Methylation interactions in Arabidopsis hybrids require RNA-directed DNA methylation and are influenced by genetic variation
   authors:  Zhang Q, Wang D, Lang Z, He L, Yang L, Zeng L, Li Y, Zhao C, Huang H, <b>Zhang H</b>, Zhang H, Zhu JK
   year:  2016
   journal:  Proc Natl Acad Sci U S A
@@ -299,7 +299,7 @@
   doi:  10.1073/pnas.1607851113
   pmid:  27382183
 
-- title:  Cross-Talk Between Sporophyte and Gametophyte Generations Is Promoted by CHD3 Chromatin Remodelers in Arabidopsis thaliana.
+- title:  Cross-Talk Between Sporophyte and Gametophyte Generations Is Promoted by CHD3 Chromatin Remodelers in Arabidopsis thaliana
   authors:  Carter B, Henderson JT, Svedin E, Fiers M, McCarthy K, Smith A, Guo C, Bishop B, <b>Zhang H</b>, Riksen T, Shockley A, Dilkes BP, Boutilier K, Ogas J
   year:  2016
   journal:  Genetics
@@ -307,7 +307,7 @@
   doi:  10.1534/genetics.115.180141
   pmid:  27075727
 
-- title:  Dicer-independent RNA-directed DNA methylation in Arabidopsis.
+- title:  Dicer-independent RNA-directed DNA methylation in Arabidopsis
   authors:  Yang DL, Zhang G, Tang K, Li J, Yang L, Huang H, <b>Zhang H</b>, Zhu JK
   year:  2016
   journal:  Cell Res
@@ -318,7 +318,7 @@
 - title: year
   year: Before 2016
 
-- title:  Protecting genes from RNA silencing by destroying aberrant transcripts.
+- title:  Protecting genes from RNA silencing by destroying aberrant transcripts
   authors:  <b>Zhang H</b>, Zhu J
   year:  2015
   journal:  Sci China Life Sci
@@ -326,7 +326,7 @@
   doi:  10.1007/s11427-015-4871-y
   pmid:  25994414
 
-- title:  Involvement of Multiple Gene-Silencing Pathways in a Paramutation-like Phenomenon in Arabidopsis.
+- title:  Involvement of Multiple Gene-Silencing Pathways in a Paramutation-like Phenomenon in Arabidopsis
   authors:  Zheng Z, Yu H, Miki D, Jin D, Zhang Q, Ren Z, Gong Z, <b>Zhang H</b>, Zhu JK
   year:  2015
   journal:  Cell Rep
@@ -334,7 +334,7 @@
   doi:  10.1016/j.celrep.2015.04.034
   pmid:  25981044
 
-- title:  Comparative physiological, metabolomic, and transcriptomic analyses reveal mechanisms of improved abiotic stress resistance in bermudagrass [Cynodon dactylon (L). Pers.] by exogenous melatonin.
+- title:  Comparative physiological, metabolomic, and transcriptomic analyses reveal mechanisms of improved abiotic stress resistance in bermudagrass [Cynodon dactylon (L). Pers.] by exogenous melatonin
   authors:  Shi H, Jiang C, Ye T, Tan DX, Reiter RJ, <b>Zhang H</b>, Liu R, Chan Z
   year:  2015
   journal:  J Exp Bot
@@ -342,7 +342,7 @@
   doi:  10.1093/jxb/eru373
   pmid:  25225478
 
-- title:  The CRISPR/Cas9 system produces specific and homozygous targeted gene editing in rice in one generation.
+- title:  The CRISPR/Cas9 system produces specific and homozygous targeted gene editing in rice in one generation
   authors:  Zhang H, Zhang J, Wei P, Zhang B, Gou F, Feng Z, Mao Y, Yang L, <b>Zhang H</b>, Xu N, Zhu JK
   year:  2014
   journal:  Plant Biotechnol J
@@ -350,7 +350,7 @@
   doi:  10.1111/pbi.12200
   pmid:  24854982
 
-- title:  An Rrp6-like protein positively regulates noncoding RNA levels and DNA methylation in Arabidopsis.
+- title:  An Rrp6-like protein positively regulates noncoding RNA levels and DNA methylation in Arabidopsis
   authors:  Zhang H, Tang K, Qian W, Duan CG, Wang B, <b>Zhang H</b>, Wang P, Zhu X, Lang Z, Yang Y, Zhu JK
   year:  2014
   journal:  Mol Cell
@@ -358,7 +358,7 @@
   doi:  10.1016/j.molcel.2014.03.019
   pmid:  24726328
 
-- title:  Arabidopsis EDM2 promotes IBM1 distal polyadenylation and regulates genome DNA methylation patterns.
+- title:  Arabidopsis EDM2 promotes IBM1 distal polyadenylation and regulates genome DNA methylation patterns
   authors:  Lei M, La H, Lu K, Wang P, Miki D, Ren Z, Duan CG, Wang X, Tang K, Zeng L, Yang L, <b>Zhang H</b>, Nie W, Liu P, Zhou J, Liu R, Zhong Y, Liu D, Zhu JK
   year:  2014
   journal:  Proc Natl Acad Sci U S A
@@ -374,7 +374,7 @@
   doi:  10.4161/rna.26312
   pmid:  25003825
 
-- title:  A Pre-mRNA-splicing factor is required for RNA-directed DNA methylation in Arabidopsis.
+- title:  A Pre-mRNA-splicing factor is required for RNA-directed DNA methylation in Arabidopsis
   authors:  Huang CF, Miki D, Tang K, Zhou HR, Zheng Z, Chen W, Ma ZY, Yang L, <b>Zhang H</b>, Liu R, He XJ, Zhu JK
   year:  2013
   journal:  PLoS Genet
@@ -382,7 +382,7 @@
   doi:  10.1371/journal.pgen.1003779
   pmid:  24068953
 
-- title:  DTF1 is a core component of RNA-directed DNA methylation and may assist in the recruitment of Pol IV.
+- title:  DTF1 is a core component of RNA-directed DNA methylation and may assist in the recruitment of Pol IV
   authors:  <b>Zhang H</b>, Ma ZY, Zeng L, Tanaka K, Zhang CJ, Ma J, Bai G, Wang P, Zhang SW, Liu ZW, Cai T, Tang K, Liu R, Shi X, He XJ, Zhu JK
   year:  2013
   journal:  Proc Natl Acad Sci U S A
@@ -390,7 +390,7 @@
   doi:  10.1073/pnas.1300585110
   pmid:  23637343
 
-- title:  PICKLE is a CHD subfamily II ATP-dependent chromatin remodeling factor.
+- title:  PICKLE is a CHD subfamily II ATP-dependent chromatin remodeling factor
   authors:  Ho KK, <b>Zhang H</b>, Golden BL, Ogas J
   year:  2013
   journal:  Biochim Biophys Acta
@@ -398,7 +398,7 @@
   doi:  10.1016/j.bbagrm.2012.10.011
   pmid:  23128324
 
-- title:  A histone acetyltransferase regulates active DNA demethylation in Arabidopsis.
+- title:  A histone acetyltransferase regulates active DNA demethylation in Arabidopsis
   authors:  Qian W, Miki D, <b>Zhang H</b>, Liu Y, Zhang X, Tang K, Kan Y, La H, Li X, Li S, Zhu X, Shi X, Zhang K, Pontes O, Chen X, Liu R, Gong Z, Zhu JK
   year:  2012
   journal:  Science
@@ -406,7 +406,7 @@
   doi:  10.1126/science.1219416
   pmid:  22700931
 
-- title:  The CHD3 remodeler PICKLE associates with genes enriched for trimethylation of histone H3 lysine 27.
+- title:  The CHD3 remodeler PICKLE associates with genes enriched for trimethylation of histone H3 lysine 27
   authors:  <b>Zhang H</b>, Bishop B, Ringenberg W, Muir WM, Ogas J
   year:  2012
   journal:  Plant Physiol
@@ -414,7 +414,7 @@
   doi:  10.1104/pp.112.194878
   pmid:  22452853
 
-- title:  An epigenetic perspective on developmental regulation of seed genes.
+- title:  An epigenetic perspective on developmental regulation of seed genes
   authors:  <b>Zhang H</b>, Ogas J
   year:  2009
   journal:  Mol Plant
@@ -422,7 +422,7 @@
   doi:  10.1093/mp/ssp027
   pmid:  19825643
 
-- title:  The CHD3 remodeler PICKLE promotes trimethylation of histone H3 lysine 27.
+- title:  The CHD3 remodeler PICKLE promotes trimethylation of histone H3 lysine 27
   authors:  <b>Zhang H</b>, Rider SD Jr, Henderson JT, Fountain M, Chuang K, Kandachar V, Simons A, Edenberg HJ, Romero-Severson J, Muir WM, Ogas J
   year:  2008
   journal:  J Biol Chem
@@ -430,10 +430,10 @@
   doi:  10.1074/jbc.M802129200
   pmid:  18539592
 
-- title:  PICKLE acts during germination to repress expression of embryonic traits.
+- title:  PICKLE acts during germination to repress expression of embryonic traits
   authors:  Li HC, Chuang K, Henderson JT, Rider SD Jr, Bai Y, <b>Zhang H</b>, Fountain M, Gerber J, Ogas J
   year:  2005
   journal:  Plant J
-  display:  44(6):1010-22.
+  display:  44(6):1010-22
   doi:  10.1111/j.1365-313X.2005.02602.x
   pmid:  16359393
