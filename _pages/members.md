@@ -53,9 +53,14 @@ permalink: /members/
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/teamphoto.jpeg" class="img-responsive"/>
 <p align="right">This photo was taken on 2022.1.6 in Shanghai Chenshan Botanical Garden.</p>
+
 ---
+
 ## Former members
 
+- **Xuefeng Chen** (Rotation student 2021)
+- **Xiaoxian Zhu** (Summer intern & Rotation student 2021)
+- **Xiaojie Zhang** (Summer intern 2021)
 - **Ali Kiana-Pouya**
 - **Fatemeh Rasouli**
 - **Yi Xiong**
