@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The main scientific question of interest to us is how plants balance growth and abiotic stress responses.  Natural variations exist in the growth and its response to abiotic stress both within and between plant species.  Delineating these differences and dissecting the underlying molecular mechanisms will help improve crop productivity, because on average over half of the yield is lost to abiotic stresses in main crops.  Our research projects are generally divided into two aspects. On one hand, we study the evolution and genetics of plants/crops that are naturally grow well in harsh environments (aka extremophytes); on the other hand, we use the model organism Arabidopsis thaliana to study how abiotic stress affects cellular energy status and subsequent signaling events.
+The main scientific question of interest to us is how plants balance growth and abiotic stress responses.  Natural variations exist in the growth and its response to abiotic stress both within and between plant species.  Delineating these differences and dissecting the underlying molecular mechanisms will help improve crop productivity, because on average over half of the yield is lost to abiotic stresses in main crops.  Our research projects are generally divided into two aspects. On one hand, we study the evolution and genetics of plants/crops that are naturally grow well in harsh environments (aka extremophytes); on the other hand, we use the model organism *Arabidopsis thaliana* to study how abiotic stress affects cellular energy status and subsequent signaling events.
 
 <div class="col-sm-6 clearfix">
 
@@ -30,8 +30,8 @@ Some extremophytes including quinoa and broomcorn millet are the earliest domest
 
 *<u>Related publication(s):</u>*
 
-- **Zhang H**<sup>#\*</sup>, Li Y, Zhu JK<sup>\*</sup> (2018) Developing naturally stress-resistant crops for a sustainable agriculture. Nat Plants 4:989-996.
-Kiani-Pouya A#, Rasouli F, Bazihizina N, Zhang H, Hedrich R, Shabala S* (2019) A large-scale screening of quinoa accessions reveals an important role of epidermal bladder cells and stomatal patterning in salinity tolerance. *<u>Environ Exp Bot</u>* 168:103885.
+- **Zhang H**<sup>#\*</sup>, Li Y, Zhu JK<sup>\*</sup> (2018) Developing naturally stress-resistant crops for a sustainable agriculture. *<u>Nat Plants</u>* 4:989-996.
+- Kiani-Pouya A, Rasouli F, Bazihizina N, **Zhang H**, Hedrich R, Shabala S<sup>\*</sup> (2019) A large-scale screening of quinoa accessions reveals an important role of epidermal bladder cells and stomatal patterning in salinity tolerance. *<u>Environ Exp Bot</u>* 168:103885.
 - Rasouli F<sup>#</sup>, Kiani-Pouya A, Li L, **Zhang H**, Chen Z, Hedrich R, Wilson R<sup>\*</sup>, Shabala S<sup>\*</sup> (2020) Sugar Beet (_Beta vulgaris_) Guard Cells Responses to Salinity Stress: A Proteomic Analysis. *<u>Int J Mol Sci</u>* 21(7):2331.
 - Kiani-Pouya A<sup>#</sup>, Li L<sup>#</sup>, Rasouli F, Zhang Z, Chen J, Yu M, Tahir A, Hedrich R, Shabala S<sup>\*</sup>, **Zhang H**<sup>\*</sup> (2022) Transcriptome analyses of quinoa leaves revealed critical function of epidermal bladder cells in salt stress acclimation. *<u>Plant Stress</u>* 3:10061.
 
