@@ -56,4 +56,8 @@ Acetylation occurs on the lysine residues, serine/threonine residues, and/or the
 
 Translation is one of the most energy-consuming processes in the cell and therefore needs to be tightly regulated under stress. In both animal and plant cells, translationally stalled messenger ribonucleoproteins (mRNPs) form stress granules (SGs) within minutes of heat stress treatment. We study SG-related signaling events that occur during the first 30 minutes of heat stress response. Understanding these molecular events can help reduce heat-induced crop losses, which are becoming more frequent in the context of global warming.
 
+*<u>Related publication(s):</u>*
+
+- Zhu S<sup>#</sup>, Gu J<sup>#</sup>, Yao J, Li Y, Zhang Z, Xia W, Wang Z, Gui X, Li L, Li D, **Zhang H**<sup>\*</sup>, Liu C<sup>\*</sup>. Liquid-liquid phase separation of RBGD2/4 is required for heat stress resistance in _Arabidopsis_. *<u>Dev Cell</u>* 57:1-15. 
+
 </div>
