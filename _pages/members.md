@@ -58,9 +58,9 @@ permalink: /members/
 
 ## Former members
 
-- **Xuefeng Chen** (Rotation student 2021)
-- **Xiaoxian Zhu** (Summer intern & Rotation student 2021)
-- **Xiaojie Zhang** (Summer intern 2021)
+- **Xuefeng Chen**
+- **Xiaoxian Zhu**
+- **Xiaojie Zhang**
 - **Ali Kiana-Pouya**
 - **Fatemeh Rasouli**
 - **Yi Xiong**
