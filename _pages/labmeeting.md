@@ -10,7 +10,7 @@ permalink: /labmeeting/
 
 ---
 
-<div class="col-sm-4 clearfix" style="background-color:#fae3d9;border-radius:10%;">
+<div class="col-sm-4 clearfix">
 
 #### January
 
@@ -28,7 +28,7 @@ permalink: /labmeeting/
 
 </div>
 
-<div class="col-sm-4 clearfix" style="background-color:#ffb6b9;border-radius:10%;">
+<div class="col-sm-4 clearfix">
 
 #### Febrary
 
@@ -46,7 +46,7 @@ permalink: /labmeeting/
   - JC: Qingbing WU
 </div>
 
-<div class="col-sm-4 clearfix" style="background-color:#bbded6;border-radius:10%;">
+<div class="col-sm-4 clearfix">
 
 #### March
 
@@ -59,24 +59,26 @@ permalink: /labmeeting/
   - PR02: Yu TAN
   - JC: Jiangmei SUN
 - Week 11 (15-Mar-2022)
+  - COVID-19 quarantine
+- Week 12 (22-Mar-2022)
   - PR01: Qingbing WU
   - PR02: Yuwei WANG
   - JC: Yuan WANG
-- Week 12 (22-Mar-2022)
+- Week 13 (29-Mar-2022)
   - PR01: Lishuo WANG
   - PR02: Yuan LONG
   - JC: Juan HUANG
-- Week 13 (29-Mar-2022)
-  - PR01: Jiangmei SUN
-  - PR02: Yuanhao ZHU
-  - JC: Shaobo ZHU
 </div>
 
-<div class="col-sm-4 clearfix" style="background-color:#8ac6d1;border-radius:10%;">
+<div class="col-sm-4 clearfix">
 
 #### April
 
-- Week 14 (4-Apr-2022)
+- Week 14 (5-Apr-2022)
+  - PR01: Jiangmei SUN
+  - PR02: Yuanhao ZHU
+  - JC: Shaobo ZHU
+- Week 15 (12-Apr-2022)
   - JC: Xueqin LI
 
 </div>
