@@ -65,9 +65,7 @@ permalink: /labmeeting/
   - PR02: Yuwei WANG
   - JC: Yuan WANG
 - Week 13 (29-Mar-2022)
-  - PR01: Lishuo WANG
-  - PR02: Yuan LONG
-  - JC: Juan HUANG
+  - COVID-19 quarantine
 </div>
 
 <div class="col-sm-4 clearfix">
@@ -75,11 +73,18 @@ permalink: /labmeeting/
 #### April
 
 - Week 14 (5-Apr-2022)
+  - COVID-19 quarantine
+- Week 15 (12-Apr-2022)
+  - PR01: Lishuo WANG
+  - PR02: Yuan LONG
+  - JC: Juan HUANG
+- Week 16 (19-Apr-2022)
   - PR01: Jiangmei SUN
   - PR02: Yuanhao ZHU
   - JC: Shaobo ZHU
-- Week 15 (12-Apr-2022)
+- Week 17 (26-Apr-2022)
   - JC: Xueqin LI
+
 
 </div>
 
