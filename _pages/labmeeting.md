@@ -11,9 +11,7 @@ permalink: /labmeeting/
 ---
 
 <div class="col-sm-4 clearfix">
-
 #### January
-
 - Week 1 (4-Jan-2022)
   - 2021 Summary
 - Week 2 (11-Jan-2022)
@@ -29,9 +27,7 @@ permalink: /labmeeting/
 </div>
 
 <div class="col-sm-4 clearfix">
-
 #### Febrary
-
 - Week 5 (1-Feb-2022)
   - Spring Festival
 - Week 6 (8-Feb-2022)
@@ -47,9 +43,7 @@ permalink: /labmeeting/
 </div>
 
 <div class="col-sm-4 clearfix">
-
 #### March
-
 - Week 9 (1-Mar-2022)
   - PR01: Xueqin LI
   - PR02: Ruoyun CHEN
@@ -69,9 +63,7 @@ permalink: /labmeeting/
 </div>
 
 <div class="col-sm-4 clearfix">
-
 #### April
-
 - Week 14 (5-Apr-2022)
   - COVID-19 quarantine
 - Week 15 (12-Apr-2022)
@@ -84,8 +76,21 @@ permalink: /labmeeting/
   - JC: Shaobo ZHU
 - Week 17 (26-Apr-2022)
   - JC: Xueqin LI
-
-
 </div>
+
+<div class="col-sm-4 clearfix">
+#### May
+- Week 18 (3-May-2022)
+  - JC: Tian DAI
+- Week 19 (10-May-2022)
+  - JC: Ruoyun CHEN
+- Week 20 (17-May-2022)
+  - JC: Yu TAN
+- Week 21 (24-May-2022)
+  - JC: Yuwei WANG
+- Week 22 (31-May-2022)
+  - JC: Yuan LONG
+</div>
+
 
 ---
