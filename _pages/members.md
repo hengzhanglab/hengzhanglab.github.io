@@ -58,6 +58,7 @@ permalink: /members/
 
 ## Former members
 
+- **Jingqi Wang**
 - **Xuefeng Chen**
 - **Xiaoxian Zhu**
 - **Xiaojie Zhang**
