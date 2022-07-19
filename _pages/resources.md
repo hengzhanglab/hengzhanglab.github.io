@@ -1,9 +1,9 @@
 ---
 title: "Resources"
 layout: textlay
-excerpt: "Resources"
+excerpt: "(misc)"
 sitemap: false
-permalink: /resources/
+permalink: /misc/
 ---
 
 ## Tools
