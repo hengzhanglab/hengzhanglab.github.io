@@ -13,10 +13,7 @@ permalink: /resources/
 - [Name of Arabidopsis Genes](https://lileiting.shinyapps.io/names-of-arabidopsis-genes/)
 - [Browse: Panicum miliaceum \(Pm\_0390\_v1\)](https://genomevolution.org/coge/GenomeView.pl?embed=&gid=52484&tracks=sequence%2Cfeatures129406_gene)
 - [Browse: Chenopodium quinoa (QQ74)](https://www.cbrc.kaust.edu.sa/chenopodiumdb/gbrowse.html)
-
-## Lab meeting
-
-<li><a href="{{ site.url }}{{ site.baseurl }}/labmeeting">Lab meeting</a></li>
+- <a href="{{ site.url }}{{ site.baseurl }}/labmeeting">Lab meeting</a>
 
 ## Guidelines
 
