@@ -1,10 +1,12 @@
 ---
-title: "Resources"
+title: "Miscellaneous"
 layout: textlay
-excerpt: "(misc)"
+excerpt: "Miscellaneous"
 sitemap: false
 permalink: /misc/
 ---
+
+# Miscellaneous
 
 ## Tools
 
