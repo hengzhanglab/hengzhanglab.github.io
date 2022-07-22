@@ -30,11 +30,9 @@ permalink: /misc/
 
 1. Reading the book [Bioinformatics Data Skills](http://shop.oreilly.com/product/0636920030157.do) is recommended for mastering basic skills of bioinformatics.
 1. [R programming language](https://cran.r-project.org/) is recommended for creating reproducible and publication-quality figures. [RStudio](https://www.rstudio.com/) makes R easy to use. [The R manuals](https://cran.r-project.org/manuals.html), [CRAN task views](https://cran.r-project.org/web/views/), and [Bioconductor workflows](http://bioconductor.org/packages/release/workflows/) are good resources for learning and using R. [ggplot2](https://ggplot2.tidyverse.org/reference/index.html) is a system for declaratively creating graphics with rich [extensions](https://exts.ggplot2.tidyverse.org). [swirl](https://swirlstats.com) teaches you R programming and data science interactively, at your own pace, and right in the R console!
-
-A collection of books related to data visualization: 
-
-1. **Envisioning Information**. By Edward R. Tufte. May 1, 1990. <https://www.edwardtufte.com/tufte/books_ei>
-2. **Modern Statistical Graphics** (in Chinese). By Peng Zhao, Yihui Xie, Xiangyun Huang. 2021. <https://bookdown.org/xiangyun/msg/>
-3. **R for Data Science**. By Hadley Wickham & Garrett Grolemund. 2017. <https://r4ds.had.co.nz/>
-4. **ggplot2 - Elegent Graphics for Data Analysis**. By Hadley Wickham. 2016. <https://ggplot2-book.org/>
-5. **Data Integration, Manipulation and Visualization of Phylogenetic Trees**. By Guangchuang Yu. 2022. <https://yulab-smu.top/treedata-book/index.html>
+1. A collection of books related to data visualization: 
+    1. **Envisioning Information**. By Edward R. Tufte. May 1, 1990. <https://www.edwardtufte.com/tufte/books_ei>
+    2. **Modern Statistical Graphics** (in Chinese). By Peng Zhao, Yihui Xie, Xiangyun Huang. 2021. <https://bookdown.org/xiangyun/msg/>
+    3. **R for Data Science**. By Hadley Wickham & Garrett Grolemund. 2017. <https://r4ds.had.co.nz/>
+    4. **ggplot2 - Elegent Graphics for Data Analysis**. By Hadley Wickham. 2016. <https://ggplot2-book.org/>
+    5. **Data Integration, Manipulation and Visualization of Phylogenetic Trees**. By Guangchuang Yu. 2022. <https://yulab-smu.top/treedata-book/index.html>
