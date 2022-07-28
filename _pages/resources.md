@@ -36,3 +36,4 @@ permalink: /misc/
     3. **R for Data Science**. By Hadley Wickham & Garrett Grolemund. 2017. <https://r4ds.had.co.nz/>
     4. **ggplot2 - Elegent Graphics for Data Analysis**. By Hadley Wickham. 2016. <https://ggplot2-book.org/>
     5. **Data Integration, Manipulation and Visualization of Phylogenetic Trees**. By Guangchuang Yu. 2022. <https://yulab-smu.top/treedata-book/index.html>
+    6. **Biomedical Knowledge Mining using GOSemSim and clusterProfiler**. By Guangchuang Yu. 2022. <https://yulab-smu.top/biomedical-knowledge-mining-book/index.html>
