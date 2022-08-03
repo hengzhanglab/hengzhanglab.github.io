@@ -59,6 +59,7 @@ permalink: /members/
 ## Former members
 
 - **Yuan Wang**
+- **Minqing Huang**
 - **Jingqi Wang**
 - **Xuefeng Chen**
 - **Xiaoxian Zhu**
