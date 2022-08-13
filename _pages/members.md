@@ -58,6 +58,7 @@ permalink: /members/
 
 ## Former members
 
+- **Jingjing Song**
 - **Yuan Wang**
 - **Minqing Huang**
 - **Jingqi Wang**
