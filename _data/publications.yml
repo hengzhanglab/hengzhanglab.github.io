@@ -33,7 +33,7 @@
   doi: 10.1111/nph.18205
   pmid: 35510810
 
-- title: Genome-wide analysis of CqCrRLK1L and CqRALF gene families in Chenopodium quinoa and their roles in salt stress response
+- title: Genome-wide analysis of <i>CqCrRLK1L</i> and <i>CqRALF</i> gene families in <i>Chenopodium quinoa</i> and their roles in salt stress response
   authors: Jiang W, Li C, Li L, Li Y, Wang Z, Yu F, Yi F, Zhang J, Zhu J-K, <b>Zhang H</b>, Li Y, Zhao C<sup>*</sup>
   year: 2022
   journal: Frontiers in Plant Science
@@ -42,7 +42,7 @@
   pmid: 35873972
 
 - title: A near complete genome assembly of chia assists in identification of key fatty acid desaturases in developing seeds
-  authors: Li L, Song J, Zhang M, Iqbal S, Li Y, <b>Zhang H</b>, Zhang H
+  authors: Li L, Song J, Zhang M, Iqbal S, Li Y, <b>Zhang H</b><sup>*</sup>, Zhang H<sup>*</sup>
   year: 2022
   journal: bioRxiv
   display: 2022.08.15.504044
