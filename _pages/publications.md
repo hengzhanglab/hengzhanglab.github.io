@@ -14,7 +14,8 @@ permalink: /publications/
 {% for publi in site.data.publications %}
 
 {% if publi.title == "year" %}
-<h4>{{ publi.year }}</h4>
+<h3>{{ publi.year }}</h3>
+<hr />
 {% else %}
 <li> <span style="color:#8B4513">{{ publi.title }}</span> <br />
 {{ publi.authors }} ({{ publi.year }}) <br /> 
