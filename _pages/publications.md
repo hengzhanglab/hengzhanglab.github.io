@@ -16,7 +16,9 @@ permalink: /publications/
 {% if publi.title == "year" %}
 <h4>{{ publi.year }}</h4>
 {% else %}
-<li>{{ publi.authors }} ({{ publi.year }}) {{ publi.title }}. <a href="https://doi.org/{{ publi.doi }}"><i>{{publi.journal}}</i>, {{ publi.display }}</a>.
+<li> <span style="color:#8B4513">{{ publi.title }}</span> <br />
+{{ publi.authors }} ({{ publi.year }}) <br /> 
+<a href="https://doi.org/{{ publi.doi }}"><i>{{publi.journal}}</i>, {{ publi.display }}</a>.
 [PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ publi.pmid }}">{{ publi.pmid }}</a>][<a href="https://badge.dimensions.ai/details/doi/{{ publi.doi }}">Citations</a>]
 </li>
 {% endif %}
