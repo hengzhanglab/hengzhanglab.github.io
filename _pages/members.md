@@ -58,21 +58,21 @@ permalink: /members/
 
 ## Former members
 
-- **Jingjing Song**
-- **Yuan Wang**
-- **Minqing Huang**
-- **Jingqi Wang**
-- **Xuefeng Chen**
-- **Xiaoxian Zhu**
-- **Xiaojie Zhang**
-- **Ali Kiana-Pouya**
-- **Fatemeh Rasouli**
-- **Yi Xiong**
-- **Hehua Zhang**
-- **Yingcun Hao**
-- **Meiling Zhang**
-- **Jianfei Guo**
-- **Yuwei Jiang**
+- **Jingjing Song**, Staff
+- **Yuan Wang**, Postdoc
+- **Minqing Huang**, Visiting graduate student
+- **Jingqi Wang**, Undergraduate intern
+- **Xuefeng Chen**, Rotation student
+- **Xiaoxian Zhu**, Rotation student
+- **Xiaojie Zhang**, Summer intern
+- **Ali Kiana-Pouya**, Visiting Ph.D. student
+- **Fatemeh Rasouli**, Visiting Ph.D. student
+- **Yi Xiong**, Visiting Ph.D. student
+- **Hehua Zhang**, Staff
+- **Yingcun Hao**, Staff
+- **Meiling Zhang**, Staff
+- **Jianfei Guo**, Ph.D. student
+- **Yuwei Jiang**, Ph.D. student
 - ...
 
 ---
