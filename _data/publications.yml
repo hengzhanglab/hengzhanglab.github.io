@@ -69,7 +69,7 @@
   pmid: 34922572
 
 - title: The receptor-like kinases BAM1 and BAM2 are required for root xylem patterning
-  authors: Fan P<sup>#</sup>, Aguilar E<sup>#</sup>, Bradai M, Xue H, Wang H, Rosas-Diaz T, Tang W, Wmn,olf S, <b>Zhang H</b>, Xu L, Lozano-Durán R<sup>*</sup>
+  authors: Fan P<sup>#</sup>, Aguilar E<sup>#</sup>, Bradai M, Xue H, Wang H, Rosas-Diaz T, Tang W, Wolf S, <b>Zhang H</b>, Xu L, Lozano-Durán R<sup>*</sup>
   year: 2021
   journal: Proc Natl Acad Sci U S A
   display: 118(12):e2022547118
@@ -201,6 +201,14 @@
   display: 131:81-89
   doi: 10.1016/j.soilbio.2018.12.028
   pmid: ""
+  
+ - title: The receptor-like kinases BAM1 and BAM2 promote the cell-to-cell movement of miRNA in the root stele to regulate xylem patterning
+   authors: Fan P, Wang H, Xue H, Rosas-Diaz T, Tang W, <b>Zhang H</b>, Xu L, Lozano-Durán R<sup>*</sup>
+   year: 2019
+   journal: bioRxiv
+   display: 603415
+   doi: 10.1101/603415
+   pmid: ""
 
 - title: year
   year: 2018
