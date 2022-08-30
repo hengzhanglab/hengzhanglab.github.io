@@ -2,6 +2,7 @@ The MIT License
 
 Copyright (c) 2018      HLi Lab
               2015-2018 Allan Lab
+              2022      HengZhang Lab
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
