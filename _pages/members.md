@@ -71,6 +71,7 @@ permalink: /members/
 - **Hehua Zhang**, Staff
 - **Yingcun Hao**, Staff
 - **Meiling Zhang**, Staff
+- **Xiansong Xiong**, Ph.D. student
 - **Jianfei Guo**, Ph.D. student
 - **Yuwei Jiang**, Ph.D. student
 - ...
