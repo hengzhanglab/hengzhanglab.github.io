@@ -58,6 +58,7 @@ permalink: /members/
 
 ## Former members
 
+- **Shaobo Zhu**, Ph.D. student
 - **Jingjing Song**, Staff
 - **Yuan Wang**, Postdoc
 - **Minqing Huang**, Visiting graduate student
