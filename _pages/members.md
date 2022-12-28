@@ -58,6 +58,7 @@ permalink: /members/
 
 ## Former members
 
+- **Leiting Li**, Postdoc
 - **Shaobo Zhu**, Ph.D. student
 - **Jingjing Song**, Staff
 - **Yuan Wang**, Postdoc
