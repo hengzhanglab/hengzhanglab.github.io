@@ -1,4 +1,15 @@
 - title: year
+  year: 2023
+ 
+- title: "Metabolomics analysis reveals the accumulation patterns of flavonoids and phenolic acids in quinoa (<i>Chenopodium quinoa Willd</i>.) grains of different colors"
+  authors: Qian G<sup>#</sup>, Li X<sup>#</sup>, Zhang H, <b>Zhang H</b>, Zhou J, Ma X, Sun W, Yang W, He R, Wahab A, Wan H<sup>*</sup>, Li L<sup>*</sup>
+  year: 2023
+  journal: Food Chemistry: X
+  display: 17, 100594
+  doi: 10.1016/j.fochx.2023.100594.
+  pmid: 36845489
+  
+- title: year
   year: 2022
 
 - title: "Liquid-liquid phase separation of RBGD2/4 is required for heat stress resistance in <i>Arabidopsis</i>"
