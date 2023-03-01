@@ -58,6 +58,7 @@ permalink: /members/
 
 ## Former members
 
+- **Yuanhao Zhu**, Graduate student
 - **Leiting Li**, Postdoc
 - **Fangyu Jin**, Rotation student
 - **Shaobo Zhu**, Ph.D. student
