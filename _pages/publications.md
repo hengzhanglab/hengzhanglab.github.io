@@ -27,7 +27,7 @@ permalink: /publications/
 {% if publi.pmid != null and publi.pmid != empty %}
 [PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ publi.pmid }}">{{ publi.pmid }}</a>]
 {% endif %}
-{% if publi.doi != null and publi.pmid != empty %}
+{% if publi.doi != null and publi.doi != empty %}
 [<a href="https://badge.dimensions.ai/details/doi/{{ publi.doi }}">Citations</a>]
 {% endif %}
 </li>
