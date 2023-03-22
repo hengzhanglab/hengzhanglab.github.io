@@ -1,7 +1,7 @@
 ---
 title: "Research"
 layout: homelay
-excerpt: "HengZhang Lab at PSC & CEMPS"
+excerpt: "HengZhang Lab at SJTU"
 sitemap: false
 permalink: /
 ---
