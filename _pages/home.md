@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The main scientific question of interest to us is how plants balance growth and abiotic stress responses.  Natural variations exist in the growth and its response to abiotic stress both within and between plant species.  Delineating these differences and dissecting the underlying molecular mechanisms will help improve crop productivity, because on average over half of the yield is lost to abiotic stresses in main crops.  Our research projects are generally divided into two aspects. On one hand, we study the evolution and genetics of plants/crops that are naturally grow well in harsh environments (aka extremophytes); on the other hand, we use the model organism *Arabidopsis thaliana* to study how abiotic stress affects cellular energy status and subsequent signaling events.
+On average over half of the world's crop yield is lost to abiotic stress. The main scientific question of interest to us is how plants balance growth and abiotic stress responses.  Natural variations exist in the growth and stress response both within and between plant species.  Delineating these differences and dissecting the underlying mechanisms will help improve crop productivity.  Our research projects are generally divided into two aspects. On one hand, we study the evolution and genetics of plants/crops that adapt to harsh environments (aka extremophytes); on the other hand, we use the model organism *Arabidopsis thaliana* to study how abiotic stress affects cellular energy status and stress responses. In particular, we study the function of protein acetylation in linking primary metabolism and abiotic stress response and translational regulation in early heat stress response.
 
 <div class="col-sm-6 clearfix">
 
