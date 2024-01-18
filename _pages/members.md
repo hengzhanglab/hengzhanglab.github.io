@@ -52,7 +52,10 @@ permalink: /members/
 ---
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/teamphoto.jpeg" class="img-responsive"/>
-<p align="right">This photo was taken on 2022.1.6 in Shanghai Chenshan Botanical Garden.</p>
+<p align="right">This photo was taken on 2022.01.06 in Shanghai Chenshan Botanical Garden.</p>
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/23_team.jpeg" class="img-responsive"/>
+<p align="right">This photo was taken on 2023.12.25 in Shanghai JiaoTong University.</p>
 
 ---
 
