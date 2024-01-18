@@ -55,12 +55,15 @@ permalink: /members/
 <p align="right">This photo was taken on 2022.01.06 in Shanghai Chenshan Botanical Garden.</p>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/23_team.jpg" class="img-responsive"/>
-<p align="right">This photo was taken on 2023.12.25 in Shanghai JiaoTong University.</p>
+<p align="right">This photo was taken on 2023.12.25 in Shanghai Jiao Tong University.</p>
 
 ---
 
 ## Former members
 
+- **Yuwei Wang**, Graduate student
+- **Jiangmei Sun**, Postdoc
+- **Chana Borjigin**, Postdoc
 - **Yuanhao Zhu**, Graduate student
 - **Leiting Li**, Postdoc
 - **Fangyu Jin**, Rotation student
