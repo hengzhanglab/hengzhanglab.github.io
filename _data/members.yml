@@ -20,12 +20,6 @@
     Staff<br>
     Email: <zhzhu@psc.ac.cn>
 
-- name: Ai Zeng
-  photo: zengai.jpeg
-  info: |
-    Staff<br>
-    Email: <aizeng@psc.ac.cn>
-
 - name: Hongwei Wang
   photo: default.png
   info: |
@@ -34,18 +28,6 @@
 
 - name: row
   info: Postdoctoral Fellow
-
-- name: Jiangmei Sun
-  photo: jmsun.jpg
-  info: |
-    Postdoctoral Fellow<br>
-    Email: <jmsun@psc.ac.cn>
-
-- name: Chana Borjigin
-  photo: default.png
-  info: |
-    Postdoctoral Fellow<br>
-    Email: <chana@psc.ac.cn>
 
 - name: row
   info: Students
@@ -80,12 +62,6 @@
     Graduate student<br>
     Email: <tiandai@psc.ac.cn>
 
-- name: Qingbing Wu
-  photo: wuqingbing.jpeg
-  info: |
-    Graduate student<br>
-    Email: <qbwu@psc.ac.cn>
-
 - name: Ruoyun Chen
   photo: chenruoyun.jpeg
   info: |
@@ -97,12 +73,6 @@
   info: |
     Graduate student<br>
     Email: <yutan@psc.ac.cn>
-
-- name: Yuwei Wang
-  photo: wangyuwei.jpeg
-  info: |
-    Graduate student<br>
-    Email: <ywwang@psc.ac.cn>
 
 - name: Lishuo Wang
   photo: default.png
