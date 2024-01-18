@@ -64,6 +64,7 @@ permalink: /members/
 - **Yuwei Wang**, Graduate student
 - **Jiangmei Sun**, Postdoc
 - **Chana Borjigin**, Postdoc
+- **Qingbing Wu**, Graduate student
 - **Ai Zeng**, Staff
 - **Yuanhao Zhu**, Graduate student
 - **Leiting Li**, Postdoc
