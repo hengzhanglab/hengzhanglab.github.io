@@ -64,6 +64,7 @@ permalink: /members/
 - **Yuwei Wang**, Graduate student
 - **Jiangmei Sun**, Postdoc
 - **Chana Borjigin**, Postdoc
+- **Ai Zeng**, Staff
 - **Yuanhao Zhu**, Graduate student
 - **Leiting Li**, Postdoc
 - **Fangyu Jin**, Rotation student
