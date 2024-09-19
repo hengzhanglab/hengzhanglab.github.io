@@ -32,12 +32,6 @@
 - name: row
   info: Students
 
-- name: Zheting Zhang
-  photo: zhangzheting.jpeg
-  info: |
-    Graduate student<br>
-    Email: <ztzhang@psc.ac.cn>
-
 - name: Xueqin Li
   photo: lixueqin.jpeg
   info: |
