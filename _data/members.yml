@@ -20,14 +20,16 @@
     Staff<br>
     Email: <zhzhu@psc.ac.cn>
 
-- name: Hongwei Wang
-  photo: default.png
-  info: |
-    Staff<br>
-    Email: <hwwang@psc.ac.cn>
 
 - name: row
   info: Postdoctoral Fellow
+  
+- name: Li Liu
+  photo: liuli.jpeg
+  info: |
+    Postdoctor<br>
+    Email: <liliu2024@sjtu.edu.cn>
+
 
 - name: row
   info: Students
@@ -74,11 +76,11 @@
     Graduate student<br>
     Email: <wanglishuo@cemps.ac.cn>
 
-- name: Super pretty Yuan Long
+- name: Yuan Long
   photo: ylong.jpeg
   info: |
     Graduate student<br>
-    Email: <longyuan@cemps.ac.cn>
+    Email: <longyuan@sjtu.edu.cn>
 
 - name: Changru Mo
   photo: MCR.jpeg
