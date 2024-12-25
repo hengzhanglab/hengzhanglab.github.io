@@ -91,4 +91,5 @@ permalink: /members/
 - **Yuwei Jiang**, Ph.D. student
 - ...
 
+Want to get to know us faster? Enjoy this [mini game](lab-ee.vercel.app)!
 ---
