@@ -91,5 +91,5 @@ permalink: /members/
 - **Yuwei Jiang**, Ph.D. student
 - ...
 
-Want to get to know us faster? Enjoy this [mini game](https://lab-ee-longyuans-projects.vercel.app/)! VPN is needed
+Want to know us faster? Enjoy this [mini game](https://lab-ee-longyuans-projects.vercel.app/)! VPN is needed
 ---
