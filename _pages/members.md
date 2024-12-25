@@ -61,7 +61,9 @@ permalink: /members/
 
 ## Former members
 
-- **Zheting zhang**, Ph.D. student
+- **Jiahong Chen**, Ph.D. student
+- **Juan Huang**, Ph.D. student
+- **Zheting Zhang**, Ph.D. student
 - **Yuwei Wang**, Graduate student
 - **Jiangmei Sun**, Postdoc
 - **Chana Borjigin**, Postdoc
