@@ -30,15 +30,16 @@
     Postdoctor<br>
     Email: <liliu2024@sjtu.edu.cn>
 
+- name: Xueqin Li
+  photo: lixueqin.jpeg
+  info: |
+    Postdoctor<br>
+    Email: <xqli@sjtu.edu.cn>
+
 
 - name: row
   info: Students
 
-- name: Xueqin Li
-  photo: lixueqin.jpeg
-  info: |
-    Graduate student<br>
-    Email: <xqli@psc.ac.cn>
 
 - name: Tian Dai
   photo: daitian_1.png
@@ -93,6 +94,18 @@
   info: |
     Undergraduate student<br>
     Email: <huzhijing@sjtu.edu.cn>
+
+- name: Xueqing Chai
+  photo: CXQ.jpeg
+  info: |
+    Undergraduate student<br>
+    Email: <fortunate_cxq@sjtu.edu.cn>
+
+- name: Sixuan Li
+  photo: LSX.jpeg
+  info: |
+    Undergraduate student<br>
+    Email: <lisixuan@sjtu.edu.cn>
 
 - name: Next may be you......
   photo: you.gif
